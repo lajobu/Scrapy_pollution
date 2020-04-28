@@ -2,6 +2,14 @@
 
 Here you can find my first web scraping project.
 
+## Data analysis results:
+
+* **Pollution level in PM2.5:**
+
+![alt text](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
+
+More details: https://github.com/lajobu/Scrapy_pollution/blob/master/Analysis.py
+
 # What is web scraping?
 
 * Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis. 
@@ -15,14 +23,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_scraping)
 * **Scraper:** scrapy
 * **Libraries:** Numpy, Pandas, Seaborn, and Matplotlib
 * **Adittional tools:** docker and scrapy_splah
-
-## Data analysis results:
-
-* **Pollution level in PM2.5:**
-
-![alt text](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
-
-More details: https://github.com/lajobu/Scrapy_pollution/blob/master/Analysis.py
 
 ## User manual:
 
