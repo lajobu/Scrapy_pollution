@@ -22,7 +22,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_scraping)
 
 ![alt text](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
 
-* More details: https://github.com/lajobu/Scrapy_pollution/blob/master/Analysis.py
+More details: https://github.com/lajobu/Scrapy_pollution/blob/master/Analysis.py
 
 ## User manual:
 
