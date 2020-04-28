@@ -2,6 +2,7 @@
 
 Here you can find my first webscraping project.
 
+* **Website:** https://openaq.org/
 * **Code languague:** Python3
 * **Scraper:** scrapy
 * **Libraries:** Numpy, Pandas, Seaborn, and Matplotlib
@@ -10,6 +11,8 @@ Here you can find my first webscraping project.
 ## Data analysis results:
 
 ![alt text](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
+
+* More details: 
 
 ## User manual:
 
@@ -26,5 +29,5 @@ Here you can find my first webscraping project.
 * It generates [pollution.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/Data/pollution.csv), script: [pollution.py](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/WS_project/spiders/pollution.py)
 
 ### 4) Python script to be run: Analysis.py
-* $ python3 Analysis.py
+* $ python3 result_pollution.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/result_pollution.csv)
 * It generates [result_pollution.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/result_pollution.csv) and [pollution_european_countries.DATE.png](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
