@@ -19,11 +19,11 @@ Here you can find my first webscraping project.
 
 ### 2) Spider to be run: pages
 * $ scrapy crawl pages -o Data/Links/pages.csv
-* It generates[pages.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/Data/Links/pages.csv), script: [pages.py](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/WS_project/spiders/pages.py)
+* It generates [pages.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/Data/Links/pages.csv), script: [pages.py](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/WS_project/spiders/pages.py)
 
 ### 3) Spider to be run: pollution
 * $ scrapy crawl pollution -o Data/pollution.csv
-* It generates[pollution.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/Data/pollution.csv), script: [pollution.py](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/WS_project/spiders/pollution.py)
+* It generates [pollution.csv](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/Data/pollution.csv), script: [pollution.py](https://github.com/lajobu/Scrapy_pollution/blob/master/WS_project/WS_project/spiders/pollution.py)
 
 ### 4) Python script to be run: Analysis.py
 * $ python3 Analysis.py
