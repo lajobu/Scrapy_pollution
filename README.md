@@ -10,6 +10,8 @@ Here you can find my first webscraping project.
 
 ## Data analysis results:
 
+* Pollution level in PM2.5
+
 ![alt text](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
 
 * More details: 
