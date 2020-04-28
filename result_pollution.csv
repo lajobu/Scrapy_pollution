@@ -1,0 +1,390 @@
+Text,Country,City,Pollution,Value,Date
+BETR831,Belgium,Antwerpen,42.5,µg/m³,2020-04-24 01:00:00
+BETR803,Belgium,Antwerpen,45.5,µg/m³,2020-04-24 01:00:00
+BETR811,Belgium,Antwerpen,48.0,µg/m³,2020-04-24 01:00:00
+BETR805,Belgium,Antwerpen,44.0,µg/m³,2020-04-24 01:00:00
+BETR817,Belgium,Antwerpen,39.5,µg/m³,2020-04-24 01:00:00
+BETR802,Belgium,Antwerpen,44.5,µg/m³,2020-04-24 01:00:00
+BETR834,Belgium,Antwerpen,41.0,µg/m³,2020-04-24 01:00:00
+BETR801,Belgium,Antwerpen,48.0,µg/m³,2020-04-24 01:00:00
+BETM802,Belgium,Antwerpen,42.5,µg/m³,2020-04-24 01:00:00
+BELSA04,Belgium,Antwerpen,46.0,µg/m³,2020-04-24 01:00:00
+US Diplomatic Post: Manama,Bahrain,Manama,47.0,µg/m³,2020-04-24 09:00:00
+BELAL01,Belgium,Antwerpen,49.5,µg/m³,2020-04-24 01:00:00
+BETN016,Belgium,Antwerpen,27.0,µg/m³,2020-04-24 01:00:00
+BETN063,Belgium,Brabant wallon,21.026,µg/m³,2020-04-24 01:00:00
+BELHB23,Belgium,Antwerpen,46.0,µg/m³,2020-04-24 01:00:00
+BG0045A,Bulgaria,Русе,11.97,µg/m³,2020-04-24 07:00:00
+Athabasca Valley,Canada,ALBERTA,7.7,µg/m³,2020-04-24 10:00:00
+Lukavac,Bosnia and Herzegovina,Lukavac,7.4,µg/m³,2020-04-24 11:00:00
+BG0075A,Bulgaria,Варна,23.59,µg/m³,2020-04-24 07:00:00
+Rangoon,Bermuda,N/A,40.0,µg/m³,2020-04-24 09:30:00
+Manama,Bosnia and Herzegovina,N/A,62.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Sarajevo,Bosnia and Herzegovina,Sarajevo,20.0,µg/m³,2020-04-24 07:00:00
+Beaverlodge,Canada,ALBERTA,0.9,µg/m³,2020-04-24 10:00:00
+Bruderheim,Canada,ALBERTA,4.9,µg/m³,2020-04-24 06:00:00
+Calgary Northwest,Canada,ALBERTA,1.4,µg/m³,2020-04-24 10:00:00
+Calgary Central2,Canada,ALBERTA,1.9,µg/m³,2020-04-24 10:00:00
+Edmonton East,Canada,ALBERTA,2.4,µg/m³,2020-04-24 10:00:00
+Bukinje,Bosnia and Herzegovina,Tuzla,5.8,µg/m³,2020-04-24 11:00:00
+Edmonton Woodcroft,Canada,ALBERTA,3.7,µg/m³,2020-04-24 10:00:00
+BKC,Bosnia and Herzegovina,Tuzla,10.6,µg/m³,2020-04-24 11:00:00
+Edmonton Central,Canada,ALBERTA,3.0,µg/m³,2020-04-24 10:00:00
+Edmonton South,Canada,ALBERTA,3.8,µg/m³,2020-04-24 10:00:00
+Skver,Bosnia and Herzegovina,Tuzla,5.9,µg/m³,2020-04-24 11:00:00
+Živinice,Bosnia and Herzegovina,Živinice,9.1,µg/m³,2020-04-24 11:00:00
+Elk Island,Canada,ALBERTA,2.0,µg/m³,2020-04-24 06:00:00
+Fort McKay,Canada,ALBERTA,10.4,µg/m³,2020-04-22 14:00:00
+Fort Chipewyan,Canada,ALBERTA,3.3,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Dhaka,Bangladesh,Dhaka,28.0,µg/m³,2020-04-24 10:00:00
+Fort Saskatchewan,Canada,ALBERTA,1.6,µg/m³,2020-04-24 10:00:00
+Elizabeth,Australia,Adelaide,9.0,µg/m³,2020-01-18 18:30:00
+Le Fevre 2,Australia,Adelaide,13.0,µg/m³,2020-04-24 09:30:00
+CBD,Australia,Adelaide,10.4,µg/m³,2020-04-24 09:30:00
+Netley,Australia,Adelaide,6.0,µg/m³,2020-04-24 09:30:00
+Le Fevre 1,Australia,Adelaide,21.0,µg/m³,2020-04-24 09:30:00
+Algiers,Antigua and Barbuda,N/A,21.1,µg/m³,2020-03-17 17:00:00
+Civic,Australia,Canberra,8.42,µg/m³,2020-04-24 11:00:00
+Campbellfield,Australia,Campbellfield,6.1,µg/m³,2020-04-24 11:00:00
+Bright,Australia,Bright,6.9,µg/m³,2020-02-20 00:00:00
+Bairnsdale,Australia,Bairnsdale,10.3,µg/m³,2020-02-20 00:00:00
+Monash,Australia,Canberra,8.63,µg/m³,2020-04-24 11:00:00
+Florey,Australia,Canberra,8.04,µg/m³,2020-04-24 11:00:00
+Cann River,Australia,Cann River,3.2,µg/m³,2020-02-17 01:00:00
+Blackwater,Australia,Central Queensland,5.6,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Kabul,Afghanistan,Kabul,31.0,µg/m³,2020-04-24 10:30:00
+US Diplomatic Post: Kabul,Afghanistan,Kabul,31.0,µg/m³,2020-04-24 10:30:00
+Wyong,Australia,Central Coast,19.9,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Algiers,Algeria,Algiers,15.8,µg/m³,2020-04-24 07:00:00
+AT10001,Austria,Burgenland,7.63725,µg/m³,2020-04-24 10:00:00
+AT0ILL1,Austria,Burgenland,9.99,µg/m³,2020-04-24 10:00:00
+AT2KA71,Austria,Kärnten,7.335,µg/m³,2020-04-24 10:00:00
+AT2KA21,Austria,Kärnten,11.635,µg/m³,2020-04-24 10:00:00
+AT30104,Austria,Niederösterreich,12.5,µg/m³,2020-04-24 10:00:00
+AT30407,Austria,Niederösterreich,16.5,µg/m³,2020-04-24 10:00:00
+AT31413,Austria,Niederösterreich,17.5,µg/m³,2020-04-24 09:00:00
+AT31902,Austria,Niederösterreich,17.5,µg/m³,2020-04-24 09:00:00
+AT2WO15,Austria,Kärnten,14.645,µg/m³,2020-04-24 10:00:00
+AT32301,Austria,Niederösterreich,10.0,µg/m³,2020-04-24 10:00:00
+AT0ENK1,Austria,Oberösterreich,15.5,µg/m³,2020-04-18 11:00:00
+AT32701,Austria,Niederösterreich,21.5,µg/m³,2020-04-24 09:00:00
+AT4S108,Austria,Oberösterreich,7.9230003,µg/m³,2020-04-24 10:00:00
+Antofagasta,Chile,Antofagasta,10.0,µg/m³,2020-04-24 11:00:00
+AT4S125,Austria,Oberösterreich,7.9195,µg/m³,2020-04-24 10:00:00
+Alto Hospicio,Chile,Alto Hospicio,9.0,µg/m³,2020-04-24 11:00:00
+AT0ZOE2,Austria,Oberösterreich,9.25,µg/m³,2020-04-24 10:00:00
+Arica,Chile,Arica,17.59,µg/m³,2020-04-24 11:00:00
+Vialidad,Chile,Aysén,35.0,µg/m³,2020-04-24 10:00:00
+Club Deportivo 23 de Marzo,Chile,Calama,6.71,µg/m³,2020-04-24 11:00:00
+Colegio Pedro Vergara Keller,Chile,Calama,1.65,µg/m³,2020-04-19 12:00:00
+Cerrillos,Chile,Cerrillos,18.0,µg/m³,2020-03-19 19:00:00
+HR0010A,Croatia,Brodsko-posavska,14.1,µg/m³,2020-04-24 08:00:00
+HR0012A,Croatia,Krapinsko-zagorska,14.0,µg/m³,2020-04-24 08:00:00
+HR0013A,Croatia,Licko-senjska,17.1,µg/m³,2020-04-24 08:00:00
+US Diplomatic Post: San Jose,Costa Rica,San Jose,8.0,µg/m³,2020-04-24 07:00:00
+HR0011A,Croatia,Osjecko-baranjska,16.4,µg/m³,2020-04-24 08:00:00
+US Diplomatic Post: Curacao,Curaçao,Curacao,6.0,µg/m³,2020-04-24 07:00:00
+HR0015A,Croatia,Istarska,14.3,µg/m³,2020-04-24 08:00:00
+BAR-TORR - Barbosa - Torre Social,Colombia,Barbosa,10.3164,µg/m³,2020-04-24 11:00:00
+CAL-JOAR - Caldas - E U Joaquín Aristizabal,Colombia,Caldas,15.5449,µg/m³,2020-04-24 11:00:00
+ENV-HOSP - Envigado - E.S.E. Santa Gertrudis,Colombia,Envigado,9.44948,µg/m³,2020-04-24 11:00:00
+EST-HOSP - La Estrella - Hospital,Colombia,La Estrella,14.0,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Bogota,Colombia,Bogota,13.0,µg/m³,2020-04-24 07:00:00
+COP-CVID - Copacabana - Ciudadela Educativa La Vida,Colombia,Copacabana,4.63894,µg/m³,2020-04-24 11:00:00
+BEL-FEVE - Bello - I.E. Fernando Vélez,Colombia,Bello,5.8413699999999995,µg/m³,2020-04-24 11:00:00
+ITA-CONC - Itagüí - I.E. Concejo Municipal de Itagüí,Colombia,Itagüí,15.0,µg/m³,2020-04-24 11:00:00
+GIR-SOSN - Girardota - S.O.S Aburrá Norte,Colombia,Medellin,16.0,µg/m³,2020-04-24 11:00:00
+ITA-CJUS - Itagüí - Casa de Justicia Itagüí,Colombia,Medellin,8.0,µg/m³,2020-04-24 11:00:00
+Beijing US Embassy,China,Beijing,51.0,µg/m³,2020-04-24 11:00:00
+CAL-LASA - Caldas - Corporacion Universitaria Lasallista,Colombia,Medellin,12.0,µg/m³,2020-04-24 11:00:00
+CEN-TRAF - Estación Tráfico Centro,Colombia,Medellin,12.0,µg/m³,2020-04-24 11:00:00
+Guangzhou,Switzerland,N/A,23.0,µg/m³,2020-04-24 11:00:00
+Shenyang,Switzerland,N/A,45.0,µg/m³,2020-04-24 10:00:00
+Shanghai,Switzerland,N/A,37.0,µg/m³,2020-04-24 08:00:00
+新建　,China,七台河市,33.0,µg/m³,2020-01-07 09:00:00
+Chengdu,Switzerland,N/A,27.0,µg/m³,2020-04-24 11:00:00
+葫头沟(对照点),China,七台河市,9.0,µg/m³,2020-04-24 10:00:00
+新建矿广场,China,七台河市,18.0,µg/m³,2020-04-24 10:00:00
+三元区政府,China,三明市,22.0,µg/m³,2020-04-24 10:00:00
+三明二中,China,三明市,15.0,µg/m³,2020-04-24 10:00:00
+河东子站,China,三亚市,6.0,µg/m³,2020-04-24 10:00:00
+河西子站,China,三亚市,6.0,µg/m³,2020-04-24 10:00:00
+CZ0ARIE,Czech Republic,Hlavní město Praha,31.0,µg/m³,2020-04-24 09:00:00
+CZ0ALIB,Czech Republic,Hlavní město Praha,20.5,µg/m³,2020-04-24 09:00:00
+CZ0ASTO,Czech Republic,Hlavní město Praha,14.0,µg/m³,2020-04-24 09:00:00
+CZ0BBNI,Czech Republic,Jihomoravský,14.0,µg/m³,2020-04-24 09:00:00
+CZ0BBDN,Czech Republic,Jihomoravský,29.0,µg/m³,2020-04-24 09:00:00
+CZ0BBNV,Czech Republic,Jihomoravský,17.0,µg/m³,2020-04-24 08:00:00
+CZ0CCBD,Czech Republic,Jihočeský,21.0,µg/m³,2020-04-24 09:00:00
+FI00893,Finland,Kymenlaakso,2.9446812,µg/m³,2020-04-24 08:00:00
+US Diplomatic Post: Abidjan,Côte d'Ivoire,Abidjan,32.0,µg/m³,2020-04-24 11:00:00
+FI00280,Finland,South Karelia,4.0,µg/m³,2020-04-24 10:00:00
+FI00349,Finland,Southwest Finland,2.1996746,µg/m³,2020-04-24 10:00:00
+FI00838,Finland,Pirkanmaa,3.4797184000000003,µg/m³,2020-04-24 10:00:00
+FI00586,Finland,Ostrobothnia,3.0,µg/m³,2020-04-24 10:00:00
+FI00208,Finland,Uusimaa,2.2130970000000003,µg/m³,2020-04-24 10:00:00
+FI00801,Finland,Pirkanmaa,0.8608392,µg/m³,2020-04-24 10:00:00
+FI00564,Finland,Uusimaa,6.301361,µg/m³,2020-04-24 10:00:00
+FI00370,Finland,Uusimaa,1.375558,µg/m³,2020-04-24 10:00:00
+FI00425,Finland,Uusimaa,2.191232,µg/m³,2020-04-24 10:00:00
+FI00761,Finland,Uusimaa,3.196193,µg/m³,2020-01-02 05:00:00
+Addis Ababa Central,Ethiopia,N/A,49.0,µg/m³,2020-04-24 10:00:00
+EE0018A,Estonia,Harjumaa,1.722,µg/m³,2020-04-24 12:00:00
+EE0019A,Estonia,Ida-Virumaa,5.397,µg/m³,2020-04-24 12:00:00
+EE0011R,Estonia,Saaremaa,5.489,µg/m³,2020-04-24 12:00:00
+FR33305,France,Ain,10.0,µg/m³,2020-04-24 09:00:00
+EE0021A,Estonia,Tartumaa,1.7080000000000002,µg/m³,2020-04-24 12:00:00
+EE0009R,Estonia,Lääne-Virumaa,8.048,µg/m³,2020-04-24 12:00:00
+EE0016A,Estonia,Jõgevamaa,3.012,µg/m³,2020-04-24 12:00:00
+FR24039,France,Alpes-de-Haute-Provence,10.8,µg/m³,2020-04-24 08:00:00
+FR18080,France,Aisne,40.9,µg/m³,2020-04-24 09:00:00
+FR24018,France,Alpes-de-Haute-Provence,4.5,µg/m³,2020-04-20 20:00:00
+FR07022,France,Allier,18.3,µg/m³,2020-04-24 09:00:00
+DEBY001,Germany,Bayern,11.15,µg/m³,2020-04-24 01:00:00
+DEBY002,Germany,Bayern,14.89,µg/m³,2020-04-24 01:00:00
+FR24036,France,Alpes-Maritimes,11.6,µg/m³,2020-04-24 09:00:00
+DEBY004,Germany,Bayern,6.68,µg/m³,2020-04-24 01:00:00
+FR24035,France,Alpes-Maritimes,11.5,µg/m³,2020-04-24 06:00:00
+DEBY005,Germany,Bayern,8.39,µg/m³,2020-04-24 01:00:00
+DEBY007,Germany,Bayern,19.6,µg/m³,2020-04-24 01:00:00
+DEBY009,Germany,Bayern,13.04,µg/m³,2020-04-24 01:00:00
+DEBY028,Germany,Bayern,13.58,µg/m³,2020-04-24 01:00:00
+DEBY014,Germany,Bayern,9.95,µg/m³,2020-04-24 01:00:00
+DEBY031,Germany,Bayern,10.77,µg/m³,2020-04-24 01:00:00
+DEBY012,Germany,Bayern,8.02,µg/m³,2020-04-24 01:00:00
+DEBY013,Germany,Bayern,10.65,µg/m³,2020-04-24 01:00:00
+DEBY021,Germany,Bayern,16.17,µg/m³,2020-04-24 01:00:00
+DEBY035,Germany,Bayern,15.24,µg/m³,2020-04-24 01:00:00
+DEBY037,Germany,Bayern,16.94,µg/m³,2020-04-24 01:00:00
+DEBY039,Germany,Bayern,13.11,µg/m³,2020-04-24 01:00:00
+Calgary Central2,Canada,ALBERTA,1.9,µg/m³,2020-04-24 10:00:00
+Central/Western,Hong Kong,Central & Western,21.8,µg/m³,2020-04-24 10:00:00
+Eastern,Hong Kong,Eastern,17.2,µg/m³,2020-04-24 10:00:00
+Causeway Bay,Hong Kong,Causeway Bay,39.3,µg/m³,2020-04-24 10:00:00
+Kwun Tong,Hong Kong,Kowloon,28.3,µg/m³,2020-04-24 10:00:00
+Sha Tin,Hong Kong,New Territories,24.3,µg/m³,2020-04-24 10:00:00
+Sham Shui Po,Hong Kong,Kowloon,19.1,µg/m³,2020-04-24 10:00:00
+Tsuen Wan,Hong Kong,New Territories,25.5,µg/m³,2020-04-24 10:00:00
+Kwai Chung,Hong Kong,New Territories,20.2,µg/m³,2020-04-24 10:00:00
+Tai Po,Hong Kong,New Territories,27.5,µg/m³,2020-04-24 10:00:00
+Mong Kok,Hong Kong,Kowloon,24.6,µg/m³,2020-04-24 10:00:00
+Tung Chung,Hong Kong,New Territories,31.3,µg/m³,2020-04-24 10:00:00
+Yuen Long,Hong Kong,New Territories,23.7,µg/m³,2020-04-24 10:00:00
+GR0003A,Greece,ΑΤΤΙΚΗ,14.0,µg/m³,2020-04-24 10:00:00
+GR0030A,Greece,ΑΤΤΙΚΗ,7.0,µg/m³,2020-04-24 10:00:00
+Tseung Kwan O,Hong Kong,Sai Kung,17.4,µg/m³,2020-04-24 10:00:00
+GR0037A,Greece,ΑΤΤΙΚΗ,13.0,µg/m³,2020-04-24 06:00:00
+GR0035A,Greece,ΑΤΤΙΚΗ,10.0,µg/m³,2020-04-24 10:00:00
+Tuen Mun,Hong Kong,N.T.,30.3,µg/m³,2020-04-24 10:00:00
+GR0039A,Greece,ΑΤΤΙΚΗ,9.0,µg/m³,2020-04-24 10:00:00
+GR0048A,Greece,ΔΥΤΙΚΗ ΕΛΛΑΔΑ,10.0,µg/m³,2020-04-24 10:00:00
+GR0047A,Greece,ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ,14.0,µg/m³,2020-04-24 10:00:00
+GR0018A,Greece,ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ,25.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Guatemala City,Guatemala,Guatemala City,35.0,µg/m³,2020-04-24 07:00:00
+US Diplomatic Post: Guatemala City,Guatemala,Guatemala City,35.0,µg/m³,2020-04-24 07:00:00
+HU0057A,Hungary,Csongrád,30.03247,µg/m³,2020-04-24 11:00:00
+GR0001A,Greece,ΘΕΣΣΑΛΙΑ,16.0,µg/m³,2020-04-24 10:00:00
+Grundartangi Gröf,Iceland,Grundartangi,1.4772,µg/m³,2020-04-24 11:00:00
+Grundartangi Kríuvarða,Iceland,Grundartangi,7.096660000000001,µg/m³,2020-04-24 10:00:00
+PCC suður,Iceland,Húsavík,0.136719,µg/m³,2020-04-24 09:00:00
+Hafnarfjörður Hvaleyrarholt,Iceland,Hafnarfjörður,2.2786,µg/m³,2020-04-24 11:00:00
+Reykjavik Husdyragardurinn,Iceland,Reykjavík,5.12984,µg/m³,2020-04-24 11:00:00
+Kópavogur Dalsmári,Iceland,Kópavogur,3.3113300000000003,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Baghdad,Iraq,Baghdad,15.0,µg/m³,2020-04-24 05:00:00
+US Diplomatic Post: Jakarta South,Indonesia,Jakarta,36.0,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Jakarta Central,Indonesia,Jakarta,11.0,µg/m³,2020-04-24 09:00:00
+US Diplomatic Post: Jakarta Central,Indonesia,Jakarta,11.0,µg/m³,2020-04-24 09:00:00
+IE0110A,Ireland,Cork City,23.8475,µg/m³,2020-04-24 10:00:00
+IE0028A,Ireland,Dublin City,17.266363000000002,µg/m³,2020-04-24 10:00:00
+IE003AP,Ireland,Dublin City,19.91,µg/m³,2020-04-24 10:00:00
+GIARDINI MARGHERITA,Italy,BOLOGNA,10.0,µg/m³,2020-04-22 23:00:00
+BESENZONE,Italy,BESENZONE,25.0,µg/m³,2020-04-23 23:00:00
+PORTA SAN FELICE,Italy,BOLOGNA,17.0,µg/m³,2020-04-23 23:00:00
+BALLIRANA,Italy,ALFONSINE,21.0,µg/m³,2020-04-23 23:00:00
+CASTELLARANO,Italy,CASTELLARANO,15.0,µg/m³,2020-04-23 23:00:00
+Campo dell'Oro,Italy,Civitavecchia,9.0,µg/m³,2020-03-30 22:00:00
+Allumiere - v.Aldo Moro,Italy,Civitavecchia,13.0,µg/m³,2020-03-30 22:00:00
+Fiumaretta,Italy,Civitavecchia,9.0,µg/m³,2020-03-30 22:00:00
+VILLA FULVIA,Italy,FERRARA,16.0,µg/m³,2020-04-23 23:00:00
+SARAGAT,Italy,COLORNO,18.0,µg/m³,2020-04-23 23:00:00
+PARCO BERTOZZI,Italy,FAENZA,16.0,µg/m³,2020-04-23 23:00:00
+PARCO RESISTENZA,Italy,FORLI',16.0,µg/m³,2020-04-23 23:00:00
+Ferentino,Italy,Frosinone,17.0,µg/m³,2020-04-03 22:00:00
+Almaty,Kazakhstan,N/A,7.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Amman,Jordan,Amman,15.0,µg/m³,2020-04-24 09:00:00
+Cassino,Italy,Frosinone,15.0,µg/m³,2020-04-03 22:00:00
+US Diplomatic Post: Amman,Jordan,Amman,15.0,µg/m³,2020-04-24 09:00:00
+Drenas,Kosovo,Drenas,9.274,µg/m³,2020-04-24 11:00:00
+Gjilan,Kosovo,Gjilan,14.119000000000002,µg/m³,2020-04-24 11:00:00
+Hani i Elezit,Kosovo,Hani i Elezit,13.372,µg/m³,2020-04-22 17:00:00
+US Diplomatic Post: Kuwait City,Kuwait,Kuwait City,45.0,µg/m³,2020-04-24 09:00:00
+Mitrovice,Kosovo,Mitrovice,11.402999999999999,µg/m³,2020-04-24 11:00:00
+Peje,Kosovo,Peje,13.065,µg/m³,2020-04-24 11:00:00
+Prishtine - IHMK,Kosovo,Prishtine,13.82,µg/m³,2020-04-24 11:00:00
+Prizren,Kosovo,Prizren,10.703,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Bishkek,Kyrgyzstan,Bishkek,3.0,µg/m³,2020-04-23 20:00:00
+Vientiane,Lao People's Democratic Republic,N/A,10.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Bishkek,Kyrgyzstan,Bishkek,3.0,µg/m³,2020-04-23 20:00:00
+US Diplomatic Post: Pristina,Kosovo,Pristina,19.0,µg/m³,2020-04-24 06:00:00
+LT00044,Lithuania,Kaunas,20.0,µg/m³,2020-04-22 23:00:00
+LT00041,Lithuania,Kaunas,5.07,µg/m³,2020-04-23 23:00:00
+LT00033,Lithuania,Klaipeda,6.77,µg/m³,2020-04-24 02:00:00
+LT00051,Lithuania,Utena,7.34,µg/m³,2020-04-24 02:00:00
+LU0101A,Luxembourg,Luxemburg,19.0,µg/m³,2020-04-24 10:00:00
+LT00003,Lithuania,Vilnius,6.87,µg/m³,2020-04-23 23:00:00
+LU0109A,Luxembourg,Luxemburg,18.0,µg/m³,2020-04-24 10:00:00
+LT00021,Lithuania,Šiauliai,6.83,µg/m³,2020-04-24 00:00:00
+LU0102A,Luxembourg,Luxemburg,44.0,µg/m³,2020-04-24 10:00:00
+LU0105A,Luxembourg,Grevenmacher,20.0,µg/m³,2020-04-24 10:00:00
+MT00008,Malta,Attard,10.7,µg/m³,2020-04-24 08:00:00
+MT00005,Malta,Msida,9.91,µg/m³,2020-04-24 08:00:00
+US Diplomatic Post: Bamako,Mali,Bamako,39.0,µg/m³,2020-04-24 10:00:00
+Ulaanbaatar,Madagascar,N/A,31.0,µg/m³,2020-04-24 10:00:00
+SPABC14 COBACH,Mexico,BAJA CALIFORNIA NORTE,18.0,µg/m³,2020-04-24 10:00:00
+Camarones,Mexico,DISTRITO FEDERAL,37.0,µg/m³,2020-04-24 10:00:00
+Merced,Mexico,DISTRITO FEDERAL,47.0,µg/m³,2020-04-24 10:00:00
+Santa Fe,Mexico,DISTRITO FEDERAL,22.0,µg/m³,2020-04-24 10:00:00
+Pedregal,Mexico,DISTRITO FEDERAL,25.0,µg/m³,2020-04-24 10:00:00
+UAM Xochimilco,Mexico,DISTRITO FEDERAL,22.0,µg/m³,2020-04-24 10:00:00
+Estación Abasolo,Mexico,GUANAJUATO,8.1,µg/m³,2020-04-24 10:00:00
+UAM Iztapalapa,Mexico,DISTRITO FEDERAL,35.0,µg/m³,2020-04-24 10:00:00
+Estación Facultad de,Mexico,GUANAJUATO,100.6,µg/m³,2020-03-21 17:00:00
+Estación DIF,Mexico,GUANAJUATO,18.5,µg/m³,2020-04-24 10:00:00
+Estación Bomberos,Mexico,GUANAJUATO,48.5,µg/m³,2020-04-24 10:00:00
+Estación Guanajuato,Mexico,GUANAJUATO,14.9,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Embassy Kathmandu,Nepal,Kathmandu,24.0,µg/m³,2020-04-24 00:15:00
+US Diplomatic Post: Rangoon,Myanmar,Rangoon,17.0,µg/m³,2020-04-24 04:30:00
+Phora Durbar Kathman,Nepal,N/A,18.0,µg/m³,2020-04-24 10:15:00
+US Diplomatic Post: Ulaanbaatar,Mongolia,Ulaanbaatar,107.0,µg/m³,2020-04-23 15:00:00
+Amsterdam-Einsteinweg,Netherlands,Amsterdam,1.9,µg/m³,2020-04-24 10:00:00
+Amsterdam-Hoogtij,Netherlands,Amsterdam,3.4,µg/m³,2020-04-24 10:00:00
+Amsterdam-Van Diemenstraat,Netherlands,Amsterdam,6.4,µg/m³,2020-04-24 10:00:00
+Amsterdam-Stadhouderskade,Netherlands,Amsterdam,5.8,µg/m³,2020-04-24 10:00:00
+Amsterdam-Westerpark,Netherlands,Amsterdam,5.5,µg/m³,2020-04-24 10:00:00
+Amsterdam-Spaarnwoude,Netherlands,Amsterdam,6.8,µg/m³,2020-04-24 10:00:00
+Amsterdam-Vondelpark,Netherlands,Amsterdam,4.8,µg/m³,2020-04-24 10:00:00
+Badhoevedorp-Sloterweg,Netherlands,Badhoevedorp,6.7,µg/m³,2020-04-24 10:00:00
+Biest Houtakker-Biestsestraat,Netherlands,Biest Houtakker,11.4244,µg/m³,2020-04-24 10:00:00
+Beverwijk West-Creutzberglaan,Netherlands,Beverwijk West,12.1,µg/m³,2020-04-24 10:00:00
+Breda-Tilburgseweg,Netherlands,Breda,12.6984,µg/m³,2020-04-24 10:00:00
+Breda-Bastenakenstraat,Netherlands,Breda,10.1994,µg/m³,2020-04-24 10:00:00
+Cabauw-Wielsekade,Netherlands,Cabauw,9.6114,µg/m³,2020-04-24 10:00:00
+Bekkestua,Norway,Bærum,6.0,µg/m³,2020-04-24 10:00:00
+Danmarks plass,Norway,Bergen,3.4708669999999997,µg/m³,2020-04-24 10:00:00
+Eilif Dues vei,Norway,Bærum,1.9,µg/m³,2020-04-24 10:00:00
+Klosterhaugen,Norway,Bergen,2.010067,µg/m³,2020-04-24 10:00:00
+Loddefjord,Norway,Bergen,1.8537830000000002,µg/m³,2020-04-24 10:00:00
+Rådal,Norway,Bergen,4.300592,µg/m³,2020-04-24 10:00:00
+Olav V gate,Norway,Bodø,5.263675,µg/m³,2020-04-24 10:00:00
+Vårveien,Norway,Drammen,3.3,µg/m³,2020-04-24 10:00:00
+Backeparken,Norway,Drammen,1.6,µg/m³,2020-04-24 10:00:00
+Leiret,Norway,Elverum,1.8141169999999998,µg/m³,2020-04-24 10:00:00
+Ringsakervegen,Norway,Brumunddal,7.1,µg/m³,2020-04-24 10:00:00
+Nygaardsgata,Norway,Fredrikstad,0.9694719999999999,µg/m³,2020-04-24 10:00:00
+St.Croix,Norway,Fredrikstad,2.0,µg/m³,2020-04-24 10:00:00
+Islamabad,Pakistan,N/A,19.0,µg/m³,2020-04-24 10:00:00
+Lahore,Pakistan,N/A,23.0,µg/m³,2020-04-24 10:00:00
+Karachi,Pakistan,N/A,24.0,µg/m³,2020-04-24 10:00:00
+CAMPO DE MARTE,Peru,Lima,7.98,µg/m³,2020-04-24 11:00:00
+Peshawar,Pakistan,N/A,29.0,µg/m³,2020-04-24 10:00:00
+CARABAYLLO,Peru,Lima,6.22,µg/m³,2020-04-24 10:00:00
+SAN BORJA,Peru,Lima,7.71,µg/m³,2020-04-24 11:00:00
+SAN JUAN DE LURIGANCHO,Peru,Lima,9.48,µg/m³,2020-04-24 11:00:00
+SAN MARTIN DE PORRES,Peru,Lima,16.0,µg/m³,2020-03-12 16:00:00
+US Diplomatic Post: Lima,Peru,Lima,18.0,µg/m³,2020-04-24 05:00:00
+PT04006,Portugal,Évora,3.0,µg/m³,2020-04-24 07:00:00
+PT02004,Portugal,Aveiro,21.0,µg/m³,2020-04-24 10:00:00
+PT05012,Portugal,Faro,0.3,µg/m³,2020-04-24 06:00:00
+PT05007,Portugal,Faro,9.2,µg/m³,2020-04-24 09:00:00
+PT02020,Portugal,Castelo Branco,4.0,µg/m³,2020-04-24 10:00:00
+PT06005,Portugal,Ilha da Madeira,5.4,µg/m³,2020-04-24 09:00:00
+PT06004,Portugal,Ilha da Madeira,2.4,µg/m³,2020-04-24 09:00:00
+PT07001,Portugal,Ilha do Faial,103.4,µg/m³,2020-04-18 12:00:00
+PT06008,Portugal,Ilha da Madeira,2.3,µg/m³,2020-04-24 09:00:00
+PT03089,Portugal,Lisboa,11.3,µg/m³,2020-04-23 08:00:00
+PT03072,Portugal,Lisboa,9.9,µg/m³,2020-04-16 13:00:00
+PT03071,Portugal,Lisboa,10.8,µg/m³,2020-04-22 13:00:00
+PT03102,Portugal,Lisboa,2.0,µg/m³,2020-04-15 08:00:00
+PT02019,Portugal,Leiria,14.0,µg/m³,2020-04-24 05:00:00
+Augustów-Miejska,Poland,Augustów,4.3,µg/m³,2020-04-24 10:00:00
+WIOŚ Biskupiec-Mobilna,Poland,Biskupiec,5.36899,µg/m³,2020-04-24 10:00:00
+Borsukowizna-Wiejska,Poland,Borsukowizna,3.1,µg/m³,2020-04-24 10:00:00
+Bydgoszcz Warszawska,Poland,Bydgoszcz,8.8,µg/m³,2020-04-24 10:00:00
+Bydgoszcz Plac Poznański,Poland,Bydgoszcz,14.1,µg/m³,2020-04-24 10:00:00
+Białystok-Miejska,Poland,Białystok,7.0,µg/m³,2020-04-24 10:00:00
+AM8 Gdańsk Wrzeszcz,Poland,Gdańsk,6.34361,µg/m³,2020-04-24 10:00:00
+WIOŚ Elbląg ul. Bażyńskiego,Poland,Elbląg,6.42821,µg/m³,2020-04-24 10:00:00
+Dębica-Grottgera-WIOS,Poland,Dębica,12.5259,µg/m³,2020-04-24 10:00:00
+Gorzów Wlkp. ul. Kosynierów Gdyńskich,Poland,Gorzów Wielkopolski,10.3636,µg/m³,2020-04-24 10:00:00
+Dhahran,Saudi Arabia,N/A,27.0,µg/m³,2020-04-24 10:00:00
+RS0032A,Serbia,Grad Beograd,28.025,µg/m³,2020-04-24 09:00:00
+SK0025A,Slovakia,Banskobystrický kraj,12.134,µg/m³,2020-04-24 10:00:00
+SK0022A,Slovakia,Banskobystrický kraj,12.479000000000001,µg/m³,2020-04-24 10:00:00
+SK0214A,Slovakia,Banskobystrický kraj,17.698,µg/m³,2020-04-24 10:00:00
+SK0263A,Slovakia,Banskobystrický kraj,12.968,µg/m³,2020-04-24 10:00:00
+SK0001A,Slovakia,Bratislavský kraj,6.9613,µg/m³,2020-04-24 10:00:00
+SK0262A,Slovakia,Banskobystrický kraj,19.195999999999998,µg/m³,2020-04-24 10:00:00
+SK0268A,Slovakia,Banskobystrický kraj,15.366,µg/m³,2020-04-24 10:00:00
+SK0004A,Slovakia,Bratislavský kraj,34.047,µg/m³,2020-04-24 10:00:00
+SK0048A,Slovakia,Bratislavský kraj,22.618000000000002,µg/m³,2020-04-24 10:00:00
+SK0002A,Slovakia,Bratislavský kraj,27.166999999999998,µg/m³,2020-04-24 10:00:00
+SK0407A,Slovakia,Bratislavský kraj,19.284000000000002,µg/m³,2020-04-24 10:00:00
+SK0030A,Slovakia,Košický kraj,19.266,µg/m³,2020-04-24 10:00:00
+SK0265A,Slovakia,Košický kraj,8.4777,µg/m³,2020-04-24 10:00:00
+ES1867A,Spain,A Coruña,2.0,µg/m³,2020-04-11 08:00:00
+SK0018A,Slovakia,Košický kraj,13.474,µg/m³,2020-04-24 10:00:00
+SK0264A,Slovakia,Košický kraj,11.218,µg/m³,2020-04-24 10:00:00
+ES1868A,Spain,A Coruña,4.0,µg/m³,2020-04-11 08:00:00
+ES1968A,Spain,Alicante/Alacant,1.0,µg/m³,2020-04-21 08:00:00
+ES1901A,Spain,A Coruña,10.0,µg/m³,2020-04-11 08:00:00
+ES1914A,Spain,Alicante/Alacant,1.0,µg/m³,2020-04-19 17:00:00
+ES1535A,Spain,Albacete,6.0,µg/m³,2020-04-22 12:00:00
+ES2008A,Spain,Alicante/Alacant,1.0,µg/m³,2020-04-21 08:00:00
+ES1489A,Spain,Araba/Álava,5.0,µg/m³,2020-04-24 03:00:00
+ES1492A,Spain,Araba/Álava,15.0,µg/m³,2020-04-24 02:00:00
+ES1502A,Spain,Araba/Álava,10.0,µg/m³,2020-04-24 03:00:00
+ES0825A,Spain,Asturias,14.0,µg/m³,2020-04-15 07:00:00
+ES1269A,Spain,Asturias,21.0,µg/m³,2020-04-24 01:00:00
+ES0880A,Spain,Asturias,10.0,µg/m³,2020-04-24 01:00:00
+ES1673A,Spain,Araba/Álava,7.0,µg/m³,2020-04-24 03:00:00
+US Diplomatic Post: Colombo,Sri Lanka,Colombo,9.0,µg/m³,2020-04-23 13:30:00
+CH0008A,Switzerland,Basel-Landschaft,10.0572,µg/m³,2020-04-24 10:00:00
+CH0031A,Switzerland,Bern,10.5114,µg/m³,2020-04-24 10:00:00
+Beijing,Switzerland,N/A,51.0,µg/m³,2020-04-24 10:00:00
+CH0011A,Switzerland,Ticino,23.3659,µg/m³,2020-04-24 10:00:00
+CH0002R,Switzerland,Vaud,9.9584,µg/m³,2020-04-24 10:00:00
+CH0033A,Switzerland,Ticino,16.3104,µg/m³,2020-04-24 10:00:00
+CH0005A,Switzerland,Zürich,9.0674,µg/m³,2020-04-24 10:00:00
+CH0005R,Switzerland,Schwyz,6.9342,µg/m³,2020-04-24 10:00:00
+CH0010A,Switzerland,Zürich,8.9182,µg/m³,2020-04-24 10:00:00
+Puli,Taiwan,南投縣,14.0,µg/m³,2020-04-24 11:00:00
+Zhushan,Taiwan,南投縣,39.0,µg/m³,2020-04-24 11:00:00
+Puzi,Taiwan,嘉義縣,17.0,µg/m³,2020-04-24 11:00:00
+Keelung,Taiwan,基隆市,9.0,µg/m³,2020-04-24 11:00:00
+Changhua,Taiwan,彰化縣,10.0,µg/m³,2020-04-24 11:00:00
+Hengchun,Taiwan,屏東縣,7.0,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Dushanbe,Tajikistan,Dushanbe,7.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Dubai,United Arab Emirates,Dubai,28.0,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Abu Dhabi,United Arab Emirates,Abu Dhabi,19.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Kampala,Uganda,Kampala,25.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Abu Dhabi,United Arab Emirates,Abu Dhabi,19.0,µg/m³,2020-04-24 10:00:00
+Aberdeen,United Kingdom,Aberdeen,6.0,µg/m³,2020-04-24 11:00:00
+Barnstaple A39,United Kingdom,Barnstaple,24.0,µg/m³,2020-04-24 11:00:00
+Birmingham Acocks Green,United Kingdom,Birmingham,14.0,µg/m³,2020-04-24 11:00:00
+Belfast Centre,United Kingdom,Belfast,17.0,µg/m³,2020-04-24 11:00:00
+Bournemouth,United Kingdom,Bournemouth,37.0,µg/m³,2020-04-24 11:00:00
+Auchencorth Moss,United Kingdom,Auchencorth,6.0,µg/m³,2020-04-24 11:00:00
+Blackpool Marton,United Kingdom,Blackpool,8.0,µg/m³,2020-04-24 11:00:00
+Bristol St Paul's,United Kingdom,Bristol,21.0,µg/m³,2020-04-24 11:00:00
+Carlisle Roadside,United Kingdom,Carlisle,12.0,µg/m³,2020-04-24 11:00:00
+Cardiff Centre,United Kingdom,Cardiff,16.0,µg/m³,2020-04-24 11:00:00
+Greenock A8 Roadside,United Kingdom,Central Scotland,7.0,µg/m³,2020-04-24 11:00:00
+Chatham Roadside,United Kingdom,Chatham,37.0,µg/m³,2020-04-24 11:00:00
+Brighton Preston Park,United Kingdom,Brighton,22.0,µg/m³,2020-04-24 11:00:00
+US Diplomatic Post: Ho Chi Minh City,Viet Nam,Ho Chi Minh City,38.0,µg/m³,2020-04-24 10:00:00
+Tashkent,Uzbekistan,N/A,25.0,µg/m³,2020-04-24 10:00:00
+US Diplomatic Post: Hanoi,Viet Nam,Hanoi,27.0,µg/m³,2020-04-23 23:00:00
+US Diplomatic Post: Sarajevo,Bosnia and Herzegovina,Sarajevo,20.0,µg/m³,2020-04-24 07:00:00
+US Diplomatic Post: San Jose,Costa Rica,San Jose,8.0,µg/m³,2020-04-24 07:00:00
+US Diplomatic Post: Baghdad,Iraq,Baghdad,15.0,µg/m³,2020-04-24 05:00:00
+US Diplomatic Post: Curacao,Curaçao,Curacao,6.0,µg/m³,2020-04-24 07:00:00
