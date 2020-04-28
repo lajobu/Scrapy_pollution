@@ -1,0 +1,529 @@
+text,pollution,date
+"BETR831, ,in ,Antwerpen,, ,Belgium",42.5,2020/04/24 01:00
+"BETR815, ,in ,Antwerpen,, ,Belgium",19,2018/01/04 03:00
+"BETR803, ,in ,Antwerpen,, ,Belgium",45.5,2020/04/24 01:00
+"BETR811, ,in ,Antwerpen,, ,Belgium",48,2020/04/24 01:00
+"BETR805, ,in ,Antwerpen,, ,Belgium",44,2020/04/24 01:00
+"BETR817, ,in ,Antwerpen,, ,Belgium",39.5,2020/04/24 01:00
+"BETR802, ,in ,Antwerpen,, ,Belgium",44.5,2020/04/24 01:00
+"BETR834, ,in ,Antwerpen,, ,Belgium",41,2020/04/24 01:00
+"BETR801, ,in ,Antwerpen,, ,Belgium",48,2020/04/24 01:00
+"BETM802, ,in ,Antwerpen,, ,Belgium",42.5,2020/04/24 01:00
+"BELSA04, ,in ,Antwerpen,, ,Belgium",46,2020/04/24 01:00
+"US Diplomatic Post: Manama, ,in ,Manama,, ,Bahrain",47,2020/04/24 09:00
+"BELAL01, ,in ,Antwerpen,, ,Belgium",49.5,2020/04/24 01:00
+"BETN016, ,in ,Antwerpen,, ,Belgium",27,2020/04/24 01:00
+"BETN063, ,in ,Brabant wallon,, ,Belgium",21.026,2020/04/24 01:00
+"BELHB23, ,in ,Antwerpen,, ,Belgium",46,2020/04/24 01:00
+"SPARTAN - Dhaka University, ,in ,Dhaka,, ,Bangladesh",6.4,2015/09/20 23:00
+"BG0045A, ,in ,Русе,, ,Bulgaria",11.97,2020/04/24 07:00
+"Athabasca Valley, ,in ,ALBERTA,, ,Canada",7.7,2020/04/24 10:00
+"Lukavac, ,in ,Lukavac,, ,Bosnia and Herzegovina",7.4,2020/04/24 11:00
+"BG0075A, ,in ,Варна,, ,Bulgaria",23.59,2020/04/24 07:00
+"Rangoon, ,in ,N/A,, ,Bermuda",40,2020/04/24 09:30
+"Manama, ,in ,N/A,, ,Bosnia and Herzegovina",62,2020/04/24 10:00
+"US Diplomatic Post: Sarajevo, ,in ,Sarajevo,, ,Bosnia and Herzegovina",20,2020/04/24 07:00
+"Guarulhos-Paço Municipal, ,in ,Guarulhos,, ,Brazil",37,2017/10/27 18:00
+"Beaverlodge, ,in ,ALBERTA,, ,Canada",0.9,2020/04/24 10:00
+"Campinas-V.União, ,in ,Campinas,, ,Brazil",30,2017/10/27 18:00
+"Bruderheim, ,in ,ALBERTA,, ,Canada",4.9,2020/04/24 06:00
+"Calgary Northwest, ,in ,ALBERTA,, ,Canada",1.4,2020/04/24 10:00
+"Calgary Central2, ,in ,ALBERTA,, ,Canada",1.9,2020/04/24 10:00
+"Caroline, ,in ,ALBERTA,, ,Canada",-0.1,2020/04/24 01:00
+"Cold Lake South, ,in ,ALBERTA,, ,Canada",7.7,2018/10/29 15:00
+"Edmonton East, ,in ,ALBERTA,, ,Canada",2.4,2020/04/24 10:00
+"Bukinje, ,in ,Tuzla,, ,Bosnia and Herzegovina",5.8,2020/04/24 11:00
+"Edmonton Woodcroft, ,in ,ALBERTA,, ,Canada",3.7,2020/04/24 10:00
+"BKC, ,in ,Tuzla,, ,Bosnia and Herzegovina",10.6,2020/04/24 11:00
+"Edmonton Central, ,in ,ALBERTA,, ,Canada",3,2020/04/24 10:00
+"Edmonton South, ,in ,ALBERTA,, ,Canada",3.8,2020/04/24 10:00
+"Skver, ,in ,Tuzla,, ,Bosnia and Herzegovina",5.9,2020/04/24 11:00
+"Živinice, ,in ,Živinice,, ,Bosnia and Herzegovina",9.1,2020/04/24 11:00
+"Guarulhos-Pimentas, ,in ,Guarulhos,, ,Brazil",43,2017/10/27 18:00
+"Piracicaba, ,in ,Piracicaba,, ,Brazil",32,2017/10/27 18:00
+"Santos-Ponta da Praia, ,in ,Santos,, ,Brazil",15,2017/10/27 18:00
+"S.Bernardo-Centro, ,in ,São Bernardo do Campo,, ,Brazil",38,2017/10/27 18:00
+"São José Do Rio Preto, ,in ,São José Do Rio Preto,, ,Brazil",15,2017/10/27 18:00
+"Osasco, ,in ,Osasco,, ,Brazil",98,2017/10/18 12:00
+"Pico do Jaraguá, ,in ,Sao Paulo,, ,Brazil",59,2017/10/27 18:00
+"Grajau-Parelheiros, ,in ,Sao Paulo,, ,Brazil",0,2017/10/26 08:00
+"Cid.Universitária-USP-Ipen, ,in ,São Paulo,, ,Brazil",50,2017/10/13 15:00
+"S.José dos Campos-Jd.Satélite, ,in ,Sao Paulo,, ,Brazil",21,2017/10/27 18:00
+"Ibirapuera, ,in ,São Paulo,, ,Brazil",31,2017/10/27 18:00
+"Ribeirão Preto-Centro, ,in ,Sao Paulo,, ,Brazil",28,2017/10/27 18:00
+"Elk Island, ,in ,ALBERTA,, ,Canada",2,2020/04/24 06:00
+"Congonhas, ,in ,São Paulo,, ,Brazil",39,2017/10/27 18:00
+"Fort McKay, ,in ,ALBERTA,, ,Canada",10.4,2020/04/22 14:00
+"Fort Chipewyan, ,in ,ALBERTA,, ,Canada",3.3,2020/04/24 10:00
+"US Diplomatic Post: Dhaka, ,in ,Dhaka,, ,Bangladesh",28,2020/04/24 10:00
+"Fort Saskatchewan, ,in ,ALBERTA,, ,Canada",1.6,2020/04/24 10:00
+"Elizabeth, ,in ,Adelaide,, ,Australia",9,2020/01/18 18:30
+"Le Fevre 2, ,in ,Adelaide,, ,Australia",13,2020/04/24 09:30
+"CBD, ,in ,Adelaide,, ,Australia",10.4,2020/04/24 09:30
+"Netley, ,in ,Adelaide,, ,Australia",6,2020/04/24 09:30
+"Le Fevre 1, ,in ,Adelaide,, ,Australia",21,2020/04/24 09:30
+"SPARTAN - Dhaka University, ,in ,Dhaka,, ,Bangladesh",6.4,2015/09/20 23:00
+"Algiers, ,in ,N/A,, ,Antigua and Barbuda",21.1,2020/03/17 17:00
+"Civic, ,in ,Canberra,, ,Australia",8.42,2020/04/24 11:00
+"Campbellfield, ,in ,Campbellfield,, ,Australia",6.1,2020/04/24 11:00
+"Bright, ,in ,Bright,, ,Australia",6.9,2020/02/20 00:00
+"Bairnsdale, ,in ,Bairnsdale,, ,Australia",10.3,2020/02/20 00:00
+"Monash, ,in ,Canberra,, ,Australia",8.63,2020/04/24 11:00
+"Florey, ,in ,Canberra,, ,Australia",8.04,2020/04/24 11:00
+"Cann River, ,in ,Cann River,, ,Australia",3.2,2020/02/17 01:00
+"Blackwater, ,in ,Central Queensland,, ,Australia",5.6,2020/04/24 10:00
+"US Diplomatic Post: Kabul, ,in ,Kabul,, ,Afghanistan",31,2020/04/24 10:30
+"US Diplomatic Post: Kabul, ,in ,Kabul,, ,Afghanistan",31,2020/04/24 10:30
+"Wyong, ,in ,Central Coast,, ,Australia",19.9,2020/04/24 11:00
+"US Diplomatic Post: Algiers, ,in ,Algiers,, ,Algeria",15.8,2020/04/24 07:00
+"AT10001, ,in ,Burgenland,, ,Austria",7.63725,2020/04/24 10:00
+"SPARTAN - CITEDEF, ,in ,Buenos Aires,, ,Argentina",18.1,2015/04/15 00:00
+"AT0ILL1, ,in ,Burgenland,, ,Austria",9.99,2020/04/24 10:00
+"AT2KA71, ,in ,Kärnten,, ,Austria",7.335,2020/04/24 10:00
+"AT2KA21, ,in ,Kärnten,, ,Austria",11.635,2020/04/24 10:00
+"AT30104, ,in ,Niederösterreich,, ,Austria",12.5,2020/04/24 10:00
+"AT30407, ,in ,Niederösterreich,, ,Austria",16.5,2020/04/24 10:00
+"AT31413, ,in ,Niederösterreich,, ,Austria",17.5,2020/04/24 09:00
+"AT31902, ,in ,Niederösterreich,, ,Austria",17.5,2020/04/24 09:00
+"AT2WO15, ,in ,Kärnten,, ,Austria",14.645,2020/04/24 10:00
+"AT32301, ,in ,Niederösterreich,, ,Austria",10,2020/04/24 10:00
+"AT0ENK1, ,in ,Oberösterreich,, ,Austria",15.5,2020/04/18 11:00
+"AT32701, ,in ,Niederösterreich,, ,Austria",21.5,2020/04/24 09:00
+"AT4S108, ,in ,Oberösterreich,, ,Austria",7.9230003,2020/04/24 10:00
+"Antofagasta, ,in ,Antofagasta,, ,Chile",10,2020/04/24 11:00
+"AT4S125, ,in ,Oberösterreich,, ,Austria",7.9195,2020/04/24 10:00
+"Alto Hospicio, ,in ,Alto Hospicio,, ,Chile",9,2020/04/24 11:00
+"AT0ZOE2, ,in ,Oberösterreich,, ,Austria",9.25,2020/04/24 10:00
+"Arica, ,in ,Arica,, ,Chile",17.59,2020/04/24 11:00
+"Progreso, ,in ,Cabrero,, ,Chile",0,2017/06/28 15:00
+"Vialidad, ,in ,Aysén,, ,Chile",35,2020/04/24 10:00
+"Estación Centro, ,in ,Calama,, ,Chile",0,2019/02/09 01:00
+"Santa Margarita, ,in ,Catemu,, ,Chile",0,2017/06/28 13:00
+"Club Deportivo 23 de Marzo, ,in ,Calama,, ,Chile",6.71,2020/04/24 11:00
+"Colegio Pedro Vergara Keller, ,in ,Calama,, ,Chile",1.65,2020/04/19 12:00
+"Romeral, ,in ,Catemu,, ,Chile",0,2017/06/28 16:00
+"Cerrillos, ,in ,Cerrillos,, ,Chile",18,2020/03/19 19:00
+"HR0010A, ,in ,Brodsko-posavska,, ,Croatia",14.1,2020/04/24 08:00
+"HR0012A, ,in ,Krapinsko-zagorska,, ,Croatia",14,2020/04/24 08:00
+"HR0013A, ,in ,Licko-senjska,, ,Croatia",17.1,2020/04/24 08:00
+"HR0020A, ,in ,Dubrovacko-neretvanska,, ,Croatia",1,2019/12/31 22:00
+"US Diplomatic Post: San Jose, ,in ,San Jose,, ,Costa Rica",8,2020/04/24 07:00
+"HR0011A, ,in ,Osjecko-baranjska,, ,Croatia",16.4,2020/04/24 08:00
+"US Diplomatic Post: Curacao, ,in ,Curacao,, ,Curaçao",6,2020/04/24 07:00
+"HR0015A, ,in ,Istarska,, ,Croatia",14.3,2020/04/24 08:00
+"BAR-TORR - Barbosa - Torre Social, ,in ,Barbosa,, ,Colombia",10.3164,2020/04/24 11:00
+"CAL-JOAR - Caldas - E U Joaquín Aristizabal, ,in ,Caldas,, ,Colombia",15.5449,2020/04/24 11:00
+"ENV-HOSP - Envigado - E.S.E. Santa Gertrudis, ,in ,Envigado,, ,Colombia",9.44948,2020/04/24 11:00
+"EST-HOSP - La Estrella - Hospital, ,in ,La Estrella,, ,Colombia",14,2020/04/24 11:00
+"US Diplomatic Post: Bogota, ,in ,Bogota,, ,Colombia",13,2020/04/24 07:00
+"COP-CVID - Copacabana - Ciudadela Educativa La Vida, ,in ,Copacabana,, ,Colombia",4.63894,2020/04/24 11:00
+"BEL-FEVE - Bello - I.E. Fernando Vélez, ,in ,Bello,, ,Colombia",5.84137,2020/04/24 11:00
+"ITA-CONC - Itagüí - I.E. Concejo Municipal de Itagüí, ,in ,Itagüí,, ,Colombia",15,2020/04/24 11:00
+"GIR-SOSN - Girardota - S.O.S Aburrá Norte, ,in ,Medellin,, ,Colombia",16,2020/04/24 11:00
+"MED-ALTA - Medellín, Altavista - I.E. Pedro Octavio Amado, ,in ,Medellin,, ,Colombia",5.93591,2020/04/24 11:00
+"ITA-CJUS - Itagüí - Casa de Justicia Itagüí, ,in ,Medellin,, ,Colombia",8,2020/04/24 11:00
+"Beijing US Embassy, ,in ,Beijing,, ,China",51,2020/04/24 11:00
+"Anqing Lian Fu Hua Yuan, ,in ,Anqing,, ,China",6,2018/08/16 04:00
+"CAL-LASA - Caldas - Corporacion Universitaria Lasallista, ,in ,Medellin,, ,Colombia",12,2020/04/24 11:00
+"SPARTAN - Tsinghua University, ,in ,Beijing,, ,China",173,2015/10/15 16:00
+"CEN-TRAF - Estación Tráfico Centro, ,in ,Medellin,, ,Colombia",12,2020/04/24 11:00
+"Guangzhou, ,in ,N/A,, ,Switzerland",23,2020/04/24 11:00
+"Shenyang, ,in ,N/A,, ,Switzerland",45,2020/04/24 10:00
+"Shanghai, ,in ,N/A,, ,Switzerland",37,2020/04/24 08:00
+"新建　, ,in ,七台河市,, ,China",33,2020/01/07 09:00
+"Chengdu, ,in ,N/A,, ,Switzerland",27,2020/04/24 11:00
+"葫头沟(对照点), ,in ,七台河市,, ,China",9,2020/04/24 10:00
+"新建矿广场, ,in ,七台河市,, ,China",18,2020/04/24 10:00
+"环保局, ,in ,七台河市,, ,China",N/A,N/A
+"三元区政府, ,in ,三明市,, ,China",22,2020/04/24 10:00
+"三明二中, ,in ,三明市,, ,China",15,2020/04/24 10:00
+"河东子站, ,in ,三亚市,, ,China",6,2020/04/24 10:00
+"河西子站, ,in ,三亚市,, ,China",6,2020/04/24 10:00
+"CZ0ARIE, ,in ,Hlavní město Praha,, ,Czech Republic",31,2020/04/24 09:00
+"CZ0ASMI, ,in ,Hlavní město Praha,, ,Czech Republic",7,2019/04/12 06:00
+"CZ0ALIB, ,in ,Hlavní město Praha,, ,Czech Republic",20.5,2020/04/24 09:00
+"CZ0ASTO, ,in ,Hlavní město Praha,, ,Czech Republic",14,2020/04/24 09:00
+"CZ0BBNI, ,in ,Jihomoravský,, ,Czech Republic",14,2020/04/24 09:00
+"CZ0BBDN, ,in ,Jihomoravský,, ,Czech Republic",29,2020/04/24 09:00
+"CZ0BBNV, ,in ,Jihomoravský,, ,Czech Republic",17,2020/04/24 08:00
+"CZ0CCBD, ,in ,Jihočeský,, ,Czech Republic",21,2020/04/24 09:00
+"FI00893, ,in ,Kymenlaakso,, ,Finland",2.9446812,2020/04/24 08:00
+"FI00446, ,in ,Northern Ostrobothnia,, ,Finland",-1.5866826,2020/04/24 10:00
+"US Diplomatic Post: Abidjan, ,in ,Abidjan,, ,Côte d'Ivoire",32,2020/04/24 11:00
+"FI00363, ,in ,Northern Savonia,, ,Finland",6.4,2018/12/09 23:00
+"FI00280, ,in ,South Karelia,, ,Finland",4,2020/04/24 10:00
+"FI00349, ,in ,Southwest Finland,, ,Finland",2.1996746,2020/04/24 10:00
+"FI00838, ,in ,Pirkanmaa,, ,Finland",3.4797184,2020/04/24 10:00
+"FI00586, ,in ,Ostrobothnia,, ,Finland",3,2020/04/24 10:00
+"FI00606, ,in ,South Karelia,, ,Finland",N/A,N/A
+"FI00208, ,in ,Uusimaa,, ,Finland",2.213097,2020/04/24 10:00
+"FI00801, ,in ,Pirkanmaa,, ,Finland",0.8608392,2020/04/24 10:00
+"FI00564, ,in ,Uusimaa,, ,Finland",6.301361,2020/04/24 10:00
+"FI00370, ,in ,Uusimaa,, ,Finland",1.375558,2020/04/24 10:00
+"FI00425, ,in ,Uusimaa,, ,Finland",2.191232,2020/04/24 10:00
+"FI00761, ,in ,Uusimaa,, ,Finland",3.196193,2020/01/02 05:00
+"US Diplomatic Post: Addis Ababa School, ,in ,Addis Ababa,, ,Ethiopia",-999,2020/04/24 07:00
+"Addis Ababa Central, ,in ,N/A,, ,Ethiopia",49,2020/04/24 10:00
+"EE0018A, ,in ,Harjumaa,, ,Estonia",1.722,2020/04/24 12:00
+"EE0019A, ,in ,Ida-Virumaa,, ,Estonia",5.397,2020/04/24 12:00
+"EE0011R, ,in ,Saaremaa,, ,Estonia",5.489,2020/04/24 12:00
+"FR33305, ,in ,Ain,, ,France",10,2020/04/24 09:00
+"EE0021A, ,in ,Tartumaa,, ,Estonia",1.708,2020/04/24 12:00
+"Evreux  Boulevard de Normandie, ,in ,AIR NORMAND,, ,France",38.5,2016/12/04 18:00
+"EE0009R, ,in ,Lääne-Virumaa,, ,Estonia",8.048,2020/04/24 12:00
+"EE0016A, ,in ,Jõgevamaa,, ,Estonia",3.012,2020/04/24 12:00
+"Maison Parc Brotonne, ,in ,AIR NORMAND,, ,France",10.58,2017/07/18 20:00
+"FR18042, ,in ,Aisne,, ,France",N/A,N/A
+"Rouen Le Conquerant, ,in ,AIR NORMAND,, ,France",35.75,2016/12/05 17:00
+"FR24039, ,in ,Alpes-de-Haute-Provence,, ,France",10.8,2020/04/24 08:00
+"FR18080, ,in ,Aisne,, ,France",40.9,2020/04/24 09:00
+"FR24018, ,in ,Alpes-de-Haute-Provence,, ,France",4.5,2020/04/20 20:00
+"Valence Trafic, ,in ,AIR RHONE ALPES,, ,France",14.75,2017/04/20 14:00
+"FR07022, ,in ,Allier,, ,France",18.3,2020/04/24 09:00
+"DEBY001, ,in ,Bayern,, ,Germany",11.15,2020/04/24 01:00
+"DEBY002, ,in ,Bayern,, ,Germany",14.89,2020/04/24 01:00
+"FR24036, ,in ,Alpes-Maritimes,, ,France",11.6,2020/04/24 09:00
+"DEBY004, ,in ,Bayern,, ,Germany",6.68,2020/04/24 01:00
+"FR24035, ,in ,Alpes-Maritimes,, ,France",11.5,2020/04/24 06:00
+"DEBY005, ,in ,Bayern,, ,Germany",8.39,2020/04/24 01:00
+"DEBY007, ,in ,Bayern,, ,Germany",19.6,2020/04/24 01:00
+"DEBY009, ,in ,Bayern,, ,Germany",13.04,2020/04/24 01:00
+"DEBY028, ,in ,Bayern,, ,Germany",13.58,2020/04/24 01:00
+"DEBY014, ,in ,Bayern,, ,Germany",9.95,2020/04/24 01:00
+"DEBY031, ,in ,Bayern,, ,Germany",10.77,2020/04/24 01:00
+"DEBY012, ,in ,Bayern,, ,Germany",8.02,2020/04/24 01:00
+"DEBY013, ,in ,Bayern,, ,Germany",10.65,2020/04/24 01:00
+"DEBY021, ,in ,Bayern,, ,Germany",16.17,2020/04/24 01:00
+"DEBY035, ,in ,Bayern,, ,Germany",15.24,2020/04/24 01:00
+"DEBY037, ,in ,Bayern,, ,Germany",16.94,2020/04/24 01:00
+"ADEPA - Asylum Down, ,in ,Accra,, ,Ghana",21.65,2007/04/08 06:54
+"DEBY039, ,in ,Bayern,, ,Germany",13.11,2020/04/24 01:00
+"ELA - East Legon, ,in ,Accra,, ,Ghana",17.92,2008/08/17 07:20
+"ADT - Asylum Down, ,in ,Accra,, ,Ghana",33.07,2007/04/08 06:20
+"ADA - Asylum Down, ,in ,Accra,, ,Ghana",28.81,2008/08/17 06:24
+"JTA - Jamestown, ,in ,Accra,, ,Ghana",66.64,2008/08/17 07:15
+"ELT - East Legon, ,in ,Accra,, ,Ghana",19.4,2007/09/05 06:50
+"ELC - East Legon, ,in ,Accra,, ,Ghana",11.41,2007/09/05 08:51
+"JTT - Jamestown, ,in ,Accra,, ,Ghana",14.91,2007/07/11 07:25
+"JTC - Jamestown, ,in ,Accra,, ,Ghana",51.77,2007/02/09 07:00
+"NMT - Nima, ,in ,Accra,, ,Ghana",30.59,2008/08/11 07:03
+"Calgary Central2, ,in ,ALBERTA,, ,Canada",1.9,2020/04/24 10:00
+"NMA - Nima, ,in ,Accra,, ,Ghana",24.66,2008/08/17 08:08
+"Central/Western, ,in ,Central & Western,, ,Hong Kong",21.8,2020/04/24 10:00
+"Eastern, ,in ,Eastern,, ,Hong Kong",17.2,2020/04/24 10:00
+"Causeway Bay, ,in ,Causeway Bay,, ,Hong Kong",39.3,2020/04/24 10:00
+"Kwun Tong, ,in ,Kowloon,, ,Hong Kong",28.3,2020/04/24 10:00
+"Sha Tin, ,in ,New Territories,, ,Hong Kong",24.3,2020/04/24 10:00
+"Sham Shui Po, ,in ,Kowloon,, ,Hong Kong",19.1,2020/04/24 10:00
+"Tsuen Wan, ,in ,New Territories,, ,Hong Kong",25.5,2020/04/24 10:00
+"Kwai Chung, ,in ,New Territories,, ,Hong Kong",20.2,2020/04/24 10:00
+"Tai Po, ,in ,New Territories,, ,Hong Kong",27.5,2020/04/24 10:00
+"Mong Kok, ,in ,Kowloon,, ,Hong Kong",24.6,2020/04/24 10:00
+"Tung Chung, ,in ,New Territories,, ,Hong Kong",31.3,2020/04/24 10:00
+"Yuen Long, ,in ,New Territories,, ,Hong Kong",23.7,2020/04/24 10:00
+"GR0003A, ,in ,ΑΤΤΙΚΗ,, ,Greece",14,2020/04/24 10:00
+"GR0030A, ,in ,ΑΤΤΙΚΗ,, ,Greece",7,2020/04/24 10:00
+"Tseung Kwan O, ,in ,Sai Kung,, ,Hong Kong",17.4,2020/04/24 10:00
+"GR0037A, ,in ,ΑΤΤΙΚΗ,, ,Greece",13,2020/04/24 06:00
+"GR0035A, ,in ,ΑΤΤΙΚΗ,, ,Greece",10,2020/04/24 10:00
+"Tuen Mun, ,in ,N.T.,, ,Hong Kong",30.3,2020/04/24 10:00
+"GR0039A, ,in ,ΑΤΤΙΚΗ,, ,Greece",9,2020/04/24 10:00
+"GR0048A, ,in ,ΔΥΤΙΚΗ ΕΛΛΑΔΑ,, ,Greece",10,2020/04/24 10:00
+"GR0047A, ,in ,ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ,, ,Greece",14,2020/04/24 10:00
+"GR0018A, ,in ,ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ,, ,Greece",25,2020/04/24 10:00
+"US Diplomatic Post: Guatemala City, ,in ,Guatemala City,, ,Guatemala",35,2020/04/24 07:00
+"US Diplomatic Post: Guatemala City, ,in ,Guatemala City,, ,Guatemala",35,2020/04/24 07:00
+"HU0057A, ,in ,Csongrád,, ,Hungary",30.03247,2020/04/24 11:00
+"GR0001A, ,in ,ΘΕΣΣΑΛΙΑ,, ,Greece",16,2020/04/24 10:00
+"Grundartangi Gröf, ,in ,Grundartangi,, ,Iceland",1.4772,2020/04/24 11:00
+"PCC norður, ,in ,Húsavík,, ,Iceland",0,2020/04/24 09:00
+"Grundartangi Kríuvarða, ,in ,Grundartangi,, ,Iceland",7.09666,2020/04/24 10:00
+"PCC suður, ,in ,Húsavík,, ,Iceland",0.136719,2020/04/24 09:00
+"Hafnarfjörður Hvaleyrarholt, ,in ,Hafnarfjörður,, ,Iceland",2.2786,2020/04/24 11:00
+"Reykjavik Husdyragardurinn, ,in ,Reykjavík,, ,Iceland",5.12984,2020/04/24 11:00
+"Kópavogur Dalsmári, ,in ,Kópavogur,, ,Iceland",3.31133,2020/04/24 11:00
+"Reykjavik Grensas, ,in ,Reykjavík,, ,Iceland",0,2020/04/24 11:00
+"Sanjay Palace, Agra - UPPCB, ,in ,Agra,, ,India",72,2020/04/24 10:45
+"Maninagar, Ahmedabad - GPCB, ,in ,Ahmedabad,, ,India",33.4,2019/07/11 11:00
+"Civil Lines,  Ajmer - RSPCB, ,in ,Ajmer,, ,India",N/A,N/A
+"Secretariat, Amaravati - APPCB, ,in ,Amaravati,, ,India",18,2019/07/11 11:15
+"Sikulpuikawn, Aizawl - Mizoram PCB, ,in ,Aizawl,, ,India",-1,2020/04/24 11:15
+"Moti Doongri, Alwar - RSPCB, ,in , Alwar,, ,India",43.48,2019/07/11 11:00
+"Patti Mehar, Ambala - HSPCB, ,in ,Ambala ,, ,India",48.75,2019/07/11 11:00
+"Golden Temple, Amritsar - PPCB, ,in ,Amritsar,, ,India",0,2019/07/11 11:00
+"More Chowk Waluj, Aurangabad - MPCB, ,in ,Aurangabad,, ,India",17.33,2020/04/24 11:00
+"Vidayagiri, Bagalkot - KSPCB, ,in ,Bagalkot,, ,India",19,2020/04/24 08:45
+"GIDC, Ankleshwar - GPCB, ,in ,Ankleshwar,, ,India",36.75,2019/07/11 11:00
+"New Collectorate, Baghpat - UPPCB, ,in ,Baghpat,, ,India",51,2019/07/11 11:15
+"Asansol Court Area, Asansol - WBPCB, ,in ,Asansol,, ,India",23.96,2020/04/24 10:15
+"Arya Nagar, Bahadurgarh - HSPCB, ,in ,Bahadurgarh ,, ,India",50.6,2020/04/24 07:45
+"Nathu Colony, Ballabgarh - HSPCB, ,in ,Ballabgarh,, ,India",126.56,2019/07/11 11:00
+"US Diplomatic Post: Baghdad, ,in ,Baghdad,, ,Iraq",15,2020/04/24 05:00
+"US Diplomatic Post: Jakarta South, ,in ,Jakarta,, ,Indonesia",36,2020/04/24 11:00
+"US Diplomatic Post: Jakarta Central, ,in ,Jakarta,, ,Indonesia",11,2020/04/24 09:00
+"US Diplomatic Post: Jakarta Central, ,in ,Jakarta,, ,Indonesia",11,2020/04/24 09:00
+"SPARTAN - ITB Bandung, ,in ,Bandung,, ,Indonesia",8.8,2015/09/13 01:00
+"SPARTAN - Weizmann Institute, ,in ,Rehovot,, ,Israel",23.4,2015/10/17 05:00
+"IE0110A, ,in ,Cork City,, ,Ireland",23.8475,2020/04/24 10:00
+"IE0028A, ,in ,Dublin City,, ,Ireland",17.266363,2020/04/24 10:00
+"IE0142A, ,in ,Longford,, ,Ireland",6.7,2018/06/03 00:00
+"IE0137A, ,in ,Limerick,, ,Ireland",28.1,2018/03/03 00:00
+"IE003AP, ,in ,Dublin City,, ,Ireland",19.91,2020/04/24 10:00
+"GIARDINI MARGHERITA, ,in ,BOLOGNA,, ,Italy",10,2020/04/22 23:00
+"BESENZONE, ,in ,BESENZONE,, ,Italy",25,2020/04/23 23:00
+"PORTA SAN FELICE, ,in ,BOLOGNA,, ,Italy",17,2020/04/23 23:00
+"BALLIRANA, ,in ,ALFONSINE,, ,Italy",21,2020/04/23 23:00
+"CASTELLARANO, ,in ,CASTELLARANO,, ,Italy",15,2020/04/23 23:00
+"Campo dell'Oro, ,in ,Civitavecchia,, ,Italy",9,2020/03/30 22:00
+"Allumiere - v.Aldo Moro, ,in ,Civitavecchia,, ,Italy",13,2020/03/30 22:00
+"Fiumaretta, ,in ,Civitavecchia,, ,Italy",9,2020/03/30 22:00
+"VILLA FULVIA, ,in ,FERRARA,, ,Italy",16,2020/04/23 23:00
+"SARAGAT, ,in ,COLORNO,, ,Italy",18,2020/04/23 23:00
+"PARCO BERTOZZI, ,in ,FAENZA,, ,Italy",16,2020/04/23 23:00
+"ES0126A, ,in ,Madrid,, ,Spain",N/A,N/A
+"PARCO RESISTENZA, ,in ,FORLI',, ,Italy",16,2020/04/23 23:00
+"Ferentino, ,in ,Frosinone,, ,Italy",17,2020/04/03 22:00
+"Almaty, ,in ,N/A,, ,Kazakhstan",7,2020/04/24 10:00
+"US Diplomatic Post: Astana, ,in ,Astana,, ,Kazakhstan",6,2019/11/13 14:00
+"US Diplomatic Post: Amman, ,in ,Amman,, ,Jordan",15,2020/04/24 09:00
+"Cassino, ,in ,Frosinone,, ,Italy",15,2020/04/03 22:00
+"Alliance Girls High, ,in ,Nairobi,, ,Kenya",5.3,2018/11/20 23:00
+"US Diplomatic Post: Amman, ,in ,Amman,, ,Jordan",15,2020/04/24 09:00
+"Nairobi CBD, ,in ,Nairobi,, ,Kenya",0,2018/09/13 21:00
+"Drenas, ,in ,Drenas,, ,Kosovo",9.274,2020/04/24 11:00
+"Gjilan, ,in ,Gjilan,, ,Kosovo",14.119,2020/04/24 11:00
+"Hani i Elezit, ,in ,Hani i Elezit,, ,Kosovo",13.372,2020/04/22 17:00
+"US Diplomatic Post: Kuwait City, ,in ,Kuwait City,, ,Kuwait",45,2020/04/24 09:00
+"Mitrovice, ,in ,Mitrovice,, ,Kosovo",11.403,2020/04/24 11:00
+"Peje, ,in ,Peje,, ,Kosovo",13.065,2020/04/24 11:00
+"Prishtine - IHMK, ,in ,Prishtine,, ,Kosovo",13.82,2020/04/24 11:00
+"Prishtine, Rilindje, ,in ,Prishtine,, ,Kosovo",11.932,2020/04/24 11:00
+"Prizren, ,in ,Prizren,, ,Kosovo",10.703,2020/04/24 11:00
+"US Diplomatic Post: Bishkek, ,in ,Bishkek,, ,Kyrgyzstan",3,2020/04/23 20:00
+"Vientiane, ,in ,N/A,, ,Lao People's Democratic Republic",10,2020/04/24 10:00
+"US Diplomatic Post: Bishkek, ,in ,Bishkek,, ,Kyrgyzstan",3,2020/04/23 20:00
+"US Diplomatic Post: Pristina, ,in ,Pristina,, ,Kosovo",19,2020/04/24 06:00
+"LT00044, ,in ,Kaunas,, ,Lithuania",20,2020/04/22 23:00
+"LT00041, ,in ,Kaunas,, ,Lithuania",5.07,2020/04/23 23:00
+"LT00033, ,in ,Klaipeda,, ,Lithuania",6.77,2020/04/24 02:00
+"LT00051, ,in ,Utena,, ,Lithuania",7.34,2020/04/24 02:00
+"LU0101A, ,in ,Luxemburg,, ,Luxembourg",19,2020/04/24 10:00
+"LT00003, ,in ,Vilnius,, ,Lithuania",6.87,2020/04/23 23:00
+"LU0109A, ,in ,Luxemburg,, ,Luxembourg",18,2020/04/24 10:00
+"LT00021, ,in ,Šiauliai,, ,Lithuania",6.83,2020/04/24 00:00
+"LU0102A, ,in ,Luxemburg,, ,Luxembourg",44,2020/04/24 10:00
+"LU0105A, ,in ,Grevenmacher,, ,Luxembourg",20,2020/04/24 10:00
+"MK0038A, ,in ,Bitola Municipality,, ,Macedonia, the Former Yugoslav Republic of",19.28,2020/04/24 10:00
+"MK0047A, ,in ,Centar Municipality,, ,Macedonia, the Former Yugoslav Republic of",26.3874,2020/04/24 10:00
+"MT00008, ,in ,Attard,, ,Malta",10.7,2020/04/24 08:00
+"MT00005, ,in ,Msida,, ,Malta",9.91,2020/04/24 08:00
+"US Diplomatic Post: Bamako, ,in ,Bamako,, ,Mali",39,2020/04/24 10:00
+"Ulaanbaatar, ,in ,N/A,, ,Madagascar",31,2020/04/24 10:00
+"MK0048A, ,in ,Karpos Municipality,, ,Macedonia, the Former Yugoslav Republic of",20.3584,2020/04/24 10:00
+"MT00007, ,in ,Gharb,, ,Malta",24.4,2019/12/12 16:00
+"MT00004, ,in ,Zejtun (Citta' Beland),, ,Malta",21.9,2019/08/13 21:00
+"SPABC14 COBACH, ,in ,BAJA CALIFORNIA NORTE,, ,Mexico",18,2020/04/24 10:00
+"Hospital General de, ,in ,DISTRITO FEDERAL,, ,Mexico",14,2019/10/17 20:00
+"Camarones, ,in ,DISTRITO FEDERAL,, ,Mexico",37,2020/04/24 10:00
+"Universidad Autonoma, ,in ,BAJA CALIFORNIA NORTE,, ,Mexico",10,2018/04/20 15:00
+"Merced, ,in ,DISTRITO FEDERAL,, ,Mexico",47,2020/04/24 10:00
+"Santa Fe, ,in ,DISTRITO FEDERAL,, ,Mexico",22,2020/04/24 10:00
+"Pedregal, ,in ,DISTRITO FEDERAL,, ,Mexico",25,2020/04/24 10:00
+"Santiago Acahualtepe, ,in ,DISTRITO FEDERAL,, ,Mexico",N/A,N/A
+"UAM Xochimilco, ,in ,DISTRITO FEDERAL,, ,Mexico",22,2020/04/24 10:00
+"Estación Abasolo, ,in ,GUANAJUATO,, ,Mexico",8.1,2020/04/24 10:00
+"UAM Iztapalapa, ,in ,DISTRITO FEDERAL,, ,Mexico",35,2020/04/24 10:00
+"Estación Facultad de, ,in ,GUANAJUATO,, ,Mexico",100.6,2020/03/21 17:00
+"Estación DIF, ,in ,GUANAJUATO,, ,Mexico",18.5,2020/04/24 10:00
+"Estación Bomberos, ,in ,GUANAJUATO,, ,Mexico",48.5,2020/04/24 10:00
+"Estación Guanajuato, ,in ,GUANAJUATO,, ,Mexico",14.9,2020/04/24 10:00
+"US Diplomatic Post: Embassy Kathmandu, ,in ,Kathmandu,, ,Nepal",24,2020/04/24 00:15
+"US Diplomatic Post: Rangoon, ,in ,Rangoon,, ,Myanmar",17,2020/04/24 04:30
+"Amgalan, ,in ,Ulaanbaatar,, ,Mongolia",181,2019/03/13 22:30
+"Phora Durbar Kathman, ,in ,N/A,, ,Nepal",18,2020/04/24 10:15
+"Baruun 4 zam, ,in ,Ulaanbaatar,, ,Mongolia",162,2019/03/13 22:00
+"1-r khoroolol, ,in ,Ulaanbaatar,, ,Mongolia",217,2019/03/13 21:45
+"Bayankhoshuu, ,in ,Ulaanbaatar,, ,Mongolia",137,2019/03/13 18:00
+"MNB, ,in ,Ulaanbaatar,, ,Mongolia",167,2019/03/13 22:30
+"Bukhiin urguu, ,in ,Ulaanbaatar,, ,Mongolia",48,2019/03/13 22:00
+"Tolgoit, ,in ,Ulaanbaatar,, ,Mongolia",121,2019/03/13 22:30
+"US Diplomatic Post: Ulaanbaatar, ,in ,Ulaanbaatar,, ,Mongolia",107,2020/04/23 15:00
+"Nisekh, ,in ,Ulaanbaatar,, ,Mongolia",81,2019/03/13 22:30
+"Amsterdam-Einsteinweg, ,in ,Amsterdam,, ,Netherlands",1.9,2020/04/24 10:00
+"Amsterdam-Hoogtij, ,in ,Amsterdam,, ,Netherlands",3.4,2020/04/24 10:00
+"Amsterdam-Van Diemenstraat, ,in ,Amsterdam,, ,Netherlands",6.4,2020/04/24 10:00
+"Amsterdam-Stadhouderskade, ,in ,Amsterdam,, ,Netherlands",5.8,2020/04/24 10:00
+"Amsterdam-Westerpark, ,in ,Amsterdam,, ,Netherlands",5.5,2020/04/24 10:00
+"Amsterdam-Spaarnwoude, ,in ,Amsterdam,, ,Netherlands",6.8,2020/04/24 10:00
+"Amsterdam-Vondelpark, ,in ,Amsterdam,, ,Netherlands",4.8,2020/04/24 10:00
+"Badhoevedorp-Sloterweg, ,in ,Badhoevedorp,, ,Netherlands",6.7,2020/04/24 10:00
+"Biest Houtakker-Biestsestraat, ,in ,Biest Houtakker,, ,Netherlands",11.4244,2020/04/24 10:00
+"Beverwijk West-Creutzberglaan, ,in ,Beverwijk West,, ,Netherlands",12.1,2020/04/24 10:00
+"Breda-Tilburgseweg, ,in ,Breda,, ,Netherlands",12.6984,2020/04/24 10:00
+"Breukelen-Snelweg, ,in ,Breukelen,, ,Netherlands",-999,2020/04/24 10:00
+"Breda-Bastenakenstraat, ,in ,Breda,, ,Netherlands",10.1994,2020/04/24 10:00
+"Botlek-Spoortunnel, ,in ,Botlek,, ,Netherlands",-995,2016/03/24 08:00
+"Cabauw-Wielsekade, ,in ,Cabauw,, ,Netherlands",9.6114,2020/04/24 10:00
+"Bekkestua, ,in ,Bærum,, ,Norway",6,2020/04/24 10:00
+"Danmarks plass, ,in ,Bergen,, ,Norway",3.470867,2020/04/24 10:00
+"Eilif Dues vei, ,in ,Bærum,, ,Norway",1.9,2020/04/24 10:00
+"Klosterhaugen, ,in ,Bergen,, ,Norway",2.010067,2020/04/24 10:00
+"Loddefjord, ,in ,Bergen,, ,Norway",1.853783,2020/04/24 10:00
+"Rådhuset, ,in ,Bergen,, ,Norway",19.5,2018/01/04 11:00
+"Rådal, ,in ,Bergen,, ,Norway",4.300592,2020/04/24 10:00
+"Olav V gate, ,in ,Bodø,, ,Norway",5.263675,2020/04/24 10:00
+"Rolland, Åsane, ,in ,Bergen,, ,Norway",2.062081,2020/04/24 10:00
+"Vårveien, ,in ,Drammen,, ,Norway",3.3,2020/04/24 10:00
+"Backeparken, ,in ,Drammen,, ,Norway",1.6,2020/04/24 10:00
+"Leiret, ,in ,Elverum,, ,Norway",1.814117,2020/04/24 10:00
+"Ringsakervegen, ,in ,Brumunddal,, ,Norway",7.1,2020/04/24 10:00
+"Nygaardsgata, ,in ,Fredrikstad,, ,Norway",0.969472,2020/04/24 10:00
+"St.Croix, ,in ,Fredrikstad,, ,Norway",2,2020/04/24 10:00
+"Islamabad, ,in ,N/A,, ,Pakistan",19,2020/04/24 10:00
+"SPARTAN - Ilorin University, ,in ,Ilorin,, ,Nigeria",4.1,2015/10/28 16:00
+"Lahore, ,in ,N/A,, ,Pakistan",23,2020/04/24 10:00
+"Karachi, ,in ,N/A,, ,Pakistan",24,2020/04/24 10:00
+"Kematen, ,in ,Austria,, ,Austria",N/A,N/A
+"CAMPO DE MARTE, ,in ,Lima,, ,Peru",7.98,2020/04/24 11:00
+"Peshawar, ,in ,N/A,, ,Pakistan",29,2020/04/24 10:00
+"CARABAYLLO, ,in ,Lima,, ,Peru",6.22,2020/04/24 10:00
+"SAN BORJA, ,in ,Lima,, ,Peru",7.71,2020/04/24 11:00
+"PUENTE PIEDRA, ,in ,Lima,, ,Peru",0,2018/10/13 20:00
+"HUACHIPA, ,in ,Lima,, ,Peru",0,2018/10/13 20:00
+"SAN JUAN DE LURIGANCHO, ,in ,Lima,, ,Peru",9.48,2020/04/24 11:00
+"SANTA ANITA, ,in ,Lima,, ,Peru",31.09,2018/10/13 21:00
+"SAN MARTIN DE PORRES, ,in ,Lima,, ,Peru",16,2020/03/12 16:00
+"US Diplomatic Post: Lima, ,in ,Lima,, ,Peru",18,2020/04/24 05:00
+"VILLA MARIA DEL TRIUNFO, ,in ,Lima,, ,Peru",0,2020/04/24 09:00
+"PT04006, ,in ,Évora,, ,Portugal",3,2020/04/24 07:00
+"PT02004, ,in ,Aveiro,, ,Portugal",21,2020/04/24 10:00
+"PT05012, ,in ,Faro,, ,Portugal",0.3,2020/04/24 06:00
+"PT05007, ,in ,Faro,, ,Portugal",9.2,2020/04/24 09:00
+"PT02020, ,in ,Castelo Branco,, ,Portugal",4,2020/04/24 10:00
+"PT06005, ,in ,Ilha da Madeira,, ,Portugal",5.4,2020/04/24 09:00
+"PT06004, ,in ,Ilha da Madeira,, ,Portugal",2.4,2020/04/24 09:00
+"PT07001, ,in ,Ilha do Faial,, ,Portugal",103.4,2020/04/18 12:00
+"PT06008, ,in ,Ilha da Madeira,, ,Portugal",2.3,2020/04/24 09:00
+"PT03089, ,in ,Lisboa,, ,Portugal",11.3,2020/04/23 08:00
+"PT03072, ,in ,Lisboa,, ,Portugal",9.9,2020/04/16 13:00
+"PT03071, ,in ,Lisboa,, ,Portugal",10.8,2020/04/22 13:00
+"PT03102, ,in ,Lisboa,, ,Portugal",2,2020/04/15 08:00
+"PT02019, ,in ,Leiria,, ,Portugal",14,2020/04/24 05:00
+"PT01024, ,in ,Porto,, ,Portugal",0,2019/12/24 16:00
+"Augustów-Miejska, ,in ,Augustów,, ,Poland",4.3,2020/04/24 10:00
+"WIOŚ Biskupiec-Mobilna, ,in ,Biskupiec,, ,Poland",5.36899,2020/04/24 10:00
+"Bielsko-Biała, ul.Partyzantów, ,in ,Bielsko-Biała,, ,Poland",11.7984,2020/04/24 09:00
+"Borsukowizna-Wiejska, ,in ,Borsukowizna,, ,Poland",3.1,2020/04/24 10:00
+"Bydgoszcz Warszawska, ,in ,Bydgoszcz,, ,Poland",8.8,2020/04/24 10:00
+"Bydgoszcz Plac Poznański, ,in ,Bydgoszcz,, ,Poland",14.1,2020/04/24 10:00
+"Białystok-Miejska, ,in ,Białystok,, ,Poland",7,2020/04/24 10:00
+"Duszniki-Zdrój, ,in ,Duszniki-Zdrój,, ,Poland",29.0594,2019/12/31 22:00
+"AM8 Gdańsk Wrzeszcz, ,in ,Gdańsk,, ,Poland",6.34361,2020/04/24 10:00
+"WIOŚ Elbląg ul. Bażyńskiego, ,in ,Elbląg,, ,Poland",6.42821,2020/04/24 10:00
+"Dębica-Grottgera-WIOS, ,in ,Dębica,, ,Poland",12.5259,2020/04/24 10:00
+"Chełmno, Łunawska 3A, ,in ,Chełmno,, ,Poland",12.6,2020/04/24 10:00
+"WIOŚ Gołdap-Uzdrowisko, ,in ,Gołdap,, ,Poland",11.4357,2019/12/14 05:00
+"Gorzów Wlkp. ul. Kosynierów Gdyńskich, ,in ,Gorzów Wielkopolski,, ,Poland",10.3636,2020/04/24 10:00
+"Goczałkowice Zdrój, ul. Parkowa, ,in ,Goczałkowice-Zdrój,, ,Poland",12.1226,2020/04/24 10:00
+"US Diplomatic Post: Dharan, ,in ,Dharan,, ,Saudi Arabia",23,2019/07/16 18:00
+"Dhahran, ,in ,N/A,, ,Saudi Arabia",27,2020/04/24 10:00
+"SPARTAN - NUS, ,in ,Singapore,, ,Singapore",282.9,2015/09/25 00:00
+"RS0032A, ,in ,Grad Beograd,, ,Serbia",28.025,2020/04/24 09:00
+"SPARTAN - Manila Observatory, ,in ,Manila,, ,Philippines",9.7,2014/05/13 03:00
+"SK0025A, ,in ,Banskobystrický kraj,, ,Slovakia",12.134,2020/04/24 10:00
+"SK0022A, ,in ,Banskobystrický kraj,, ,Slovakia",12.479,2020/04/24 10:00
+"SK0214A, ,in ,Banskobystrický kraj,, ,Slovakia",17.698,2020/04/24 10:00
+"SK0263A, ,in ,Banskobystrický kraj,, ,Slovakia",12.968,2020/04/24 10:00
+"SK0001A, ,in ,Bratislavský kraj,, ,Slovakia",6.9613,2020/04/24 10:00
+"SK0262A, ,in ,Banskobystrický kraj,, ,Slovakia",19.196,2020/04/24 10:00
+"SK0268A, ,in ,Banskobystrický kraj,, ,Slovakia",15.366,2020/04/24 10:00
+"SK0004A, ,in ,Bratislavský kraj,, ,Slovakia",34.047,2020/04/24 10:00
+"SK0048A, ,in ,Bratislavský kraj,, ,Slovakia",22.618,2020/04/24 10:00
+"SK0002A, ,in ,Bratislavský kraj,, ,Slovakia",27.167,2020/04/24 10:00
+"SK0407A, ,in ,Bratislavský kraj,, ,Slovakia",19.284,2020/04/24 10:00
+"SK0030A, ,in ,Košický kraj,, ,Slovakia",19.266,2020/04/24 10:00
+"SK0265A, ,in ,Košický kraj,, ,Slovakia",8.4777,2020/04/24 10:00
+"ES1867A, ,in ,A Coruña,, ,Spain",2,2020/04/11 08:00
+"SK0018A, ,in ,Košický kraj,, ,Slovakia",13.474,2020/04/24 10:00
+"ES1138A, ,in ,A Coruña,, ,Spain",11,2019/12/26 15:00
+"SK0264A, ,in ,Košický kraj,, ,Slovakia",11.218,2020/04/24 10:00
+"ES1868A, ,in ,A Coruña,, ,Spain",4,2020/04/11 08:00
+"ES1968A, ,in ,Alicante/Alacant,, ,Spain",1,2020/04/21 08:00
+"ES1901A, ,in ,A Coruña,, ,Spain",10,2020/04/11 08:00
+"ES1914A, ,in ,Alicante/Alacant,, ,Spain",1,2020/04/19 17:00
+"ES1535A, ,in ,Albacete,, ,Spain",6,2020/04/22 12:00
+"ES2008A, ,in ,Alicante/Alacant,, ,Spain",1,2020/04/21 08:00
+"ES1489A, ,in ,Araba/Álava,, ,Spain",5,2020/04/24 03:00
+"ES1492A, ,in ,Araba/Álava,, ,Spain",15,2020/04/24 02:00
+"ES1502A, ,in ,Araba/Álava,, ,Spain",10,2020/04/24 03:00
+"ES0825A, ,in ,Asturias,, ,Spain",14,2020/04/15 07:00
+"ES1269A, ,in ,Asturias,, ,Spain",21,2020/04/24 01:00
+"ES0880A, ,in ,Asturias,, ,Spain",10,2020/04/24 01:00
+"ES1673A, ,in ,Araba/Álava,, ,Spain",7,2020/04/24 03:00
+"US Diplomatic Post: Colombo, ,in ,Colombo,, ,Sri Lanka",9,2020/04/23 13:30
+"CH0008A, ,in ,Basel-Landschaft,, ,Switzerland",10.0572,2020/04/24 10:00
+"CH0031A, ,in ,Bern,, ,Switzerland",10.5114,2020/04/24 10:00
+"Beijing, ,in ,N/A,, ,Switzerland",51,2020/04/24 10:00
+"CH0011A, ,in ,Ticino,, ,Switzerland",23.3659,2020/04/24 10:00
+"CH0002R, ,in ,Vaud,, ,Switzerland",9.9584,2020/04/24 10:00
+"CH0033A, ,in ,Ticino,, ,Switzerland",16.3104,2020/04/24 10:00
+"CH0005A, ,in ,Zürich,, ,Switzerland",9.0674,2020/04/24 10:00
+"CH0005R, ,in ,Schwyz,, ,Switzerland",6.9342,2020/04/24 10:00
+"CH0010A, ,in ,Zürich,, ,Switzerland",8.9182,2020/04/24 10:00
+"Hornsgatan, ,in ,Stockholm,, ,Sweden",28.4445,2018/10/13 21:00
+"Lilla Essingen (E4/E20), ,in ,Stockholm,, ,Sweden",25.5957,2018/10/13 21:00
+"Uppsala Kungsgatan, ,in ,Uppsala,, ,Sweden",26.826,2018/10/13 21:00
+"Puli, ,in ,南投縣,, ,Taiwan",14,2020/04/24 11:00
+"Nantou, ,in ,南投縣,, ,Taiwan",2,2017/06/14 09:00
+"Zhushan, ,in ,南投縣,, ,Taiwan",39,2020/04/24 11:00
+"Puzi, ,in ,嘉義縣,, ,Taiwan",17,2020/04/24 11:00
+"Sveavägen, ,in ,Stockholm,, ,Sweden",27.7826,2018/10/13 21:00
+"Chiayi, ,in ,嘉義市,, ,Taiwan",11,2017/06/14 09:00
+"Xingang, ,in ,嘉義縣,, ,Taiwan",5,2017/06/14 09:00
+"Dongshan, ,in ,宜蘭縣,, ,Taiwan",3,2017/06/14 09:00
+"Yilan, ,in ,宜蘭縣,, ,Taiwan",4,2017/06/14 09:00
+"Keelung, ,in ,基隆市,, ,Taiwan",9,2020/04/24 11:00
+"Pingtung, ,in ,屏東縣,, ,Taiwan",2,2017/06/14 07:00
+"Changhua, ,in ,彰化縣,, ,Taiwan",10,2020/04/24 11:00
+"Hengchun, ,in ,屏東縣,, ,Taiwan",7,2020/04/24 11:00
+"Chaozhou, ,in ,屏東縣,, ,Taiwan",4,2017/06/14 09:00
+"AT30599, ,in ,Niederösterreich,, ,Austria",N/A,N/A
+"US Diplomatic Post: Dushanbe, ,in ,Dushanbe,, ,Tajikistan",7,2020/04/24 10:00
+"US Diplomatic Post: Ashgabat, ,in ,Ashgabat,, ,Turkmenistan",-999,2020/04/24 07:00
+"US Diplomatic Post: Dubai, ,in ,Dubai,, ,United Arab Emirates",28,2020/04/24 11:00
+"US Diplomatic Post: Abu Dhabi, ,in ,Abu Dhabi,, ,United Arab Emirates",19,2020/04/24 10:00
+"US Diplomatic Post: Kampala, ,in ,Kampala,, ,Uganda",25,2020/04/24 10:00
+"Xianxi, ,in ,彰化縣,, ,Taiwan",5,2017/06/14 09:00
+"US Diplomatic Post: Abu Dhabi, ,in ,Abu Dhabi,, ,United Arab Emirates",19,2020/04/24 10:00
+"Aberdeen, ,in ,Aberdeen,, ,United Kingdom",6,2020/04/24 11:00
+"Barnstaple A39, ,in ,Barnstaple,, ,United Kingdom",24,2020/04/24 11:00
+"Birmingham Acocks Green, ,in ,Birmingham,, ,United Kingdom",14,2020/04/24 11:00
+"Belfast Centre, ,in ,Belfast,, ,United Kingdom",17,2020/04/24 11:00
+"Birmingham Tyburn, ,in ,Birmingham,, ,United Kingdom",3,2017/06/06 16:00
+"Bournemouth, ,in ,Bournemouth,, ,United Kingdom",37,2020/04/24 11:00
+"Birmingham Tyburn Roadside, ,in ,Birmingham,, ,United Kingdom",15,2016/09/07 15:00
+"Auchencorth Moss, ,in ,Auchencorth,, ,United Kingdom",6,2020/04/24 11:00
+"Blackpool Marton, ,in ,Blackpool,, ,United Kingdom",8,2020/04/24 11:00
+"Bristol St Paul's, ,in ,Bristol,, ,United Kingdom",21,2020/04/24 11:00
+"Carlisle Roadside, ,in ,Carlisle,, ,United Kingdom",12,2020/04/24 11:00
+"Cardiff Centre, ,in ,Cardiff,, ,United Kingdom",16,2020/04/24 11:00
+"Cle Elum_Mobile, ,in ,007,, ,United States",0,2018/08/17 22:00
+"Greenock A8 Roadside, ,in ,Central Scotland,, ,United Kingdom",7,2020/04/24 11:00
+"Chatham Roadside, ,in ,Chatham,, ,United Kingdom",37,2020/04/24 11:00
+"Leavenworth_Mobile, ,in ,007,, ,United States",10,2018/11/09 19:00
+"Brighton Preston Park, ,in ,Brighton,, ,United Kingdom",22,2020/04/24 11:00
+"SPARTAN - Vietnam Acad. Sci., ,in ,Hanoi,, ,Viet Nam",36.9,2015/08/21 01:00
+"US Diplomatic Post: Ho Chi Minh City, ,in ,Ho Chi Minh City,, ,Viet Nam",38,2020/04/24 10:00
+"Tashkent, ,in ,N/A,, ,Uzbekistan",25,2020/04/24 10:00
+"US Diplomatic Post: Hanoi, ,in ,Hanoi,, ,Viet Nam",27,2020/04/23 23:00
+"US Diplomatic Post: Sarajevo, ,in ,Sarajevo,, ,Bosnia and Herzegovina",20,2020/04/24 07:00
+"Colombo, ,in ,N/A,, ",8,2020/04/24 09:30
+"US Diplomatic Post: San Jose, ,in ,San Jose,, ,Costa Rica",8,2020/04/24 07:00
+"US Diplomatic Post: Baghdad, ,in ,Baghdad,, ,Iraq",15,2020/04/24 05:00
+"Kuwait City, ,in ,N/A,, ",49,2020/04/24 10:00
+"Dushanbe, ,in ,N/A,, ",8,2020/04/24 10:00
+"Pristina, ,in ,N/A,, ",13,2020/04/24 10:00
+"Hanoi, ,in ,N/A,, ",32,2020/04/24 10:00
+"Ho Chi Minh City, ,in ,N/A,, ",38,2020/04/24 10:00
+"US Diplomatic Post: Curacao, ,in ,Curacao,, ,Curaçao",6,2020/04/24 07:00
+"US Diplomatic Post: Ashgabat, ,in ,Ashgabat,, ,Turkmenistan",-999,2020/04/24 07:00
