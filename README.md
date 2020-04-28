@@ -9,7 +9,7 @@ Here you can find my first webscraping project.
 
 ## Data analysis results:
 
-
+![alt text](https://github.com/lajobu/Scrapy_pollution/blob/master/pollution_european_countries.2020-04-25%2012.15.png)
 
 ## User manual:
 
