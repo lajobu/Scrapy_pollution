@@ -1,6 +1,6 @@
 # Scrapy_pollution
 
-Here you can find my first webscraping project.
+Here you can find my first web scraping project.
 
 # What is web scraping?
 
