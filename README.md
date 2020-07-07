@@ -13,9 +13,13 @@ Here you can find my first `web scraping project`.
 ## :star: Details:
 
 :round_pushpin: **Website:** https://openaq.org/
+
 :round_pushpin: **Code languague:** Python3
+
 :round_pushpin: **Scraper:** scrapy
+
 :round_pushpin: **Libraries:** Numpy, Pandas  :panda_face:, Seaborn  :bar_chart:, and Matplotlib
+
 :round_pushpin: **Adittional tools:** docker and scrapy_splah
 
 #  :question: What is web scraping?
