@@ -16,7 +16,7 @@ Here you can find my first `web scraping project`.
 
 :round_pushpin: **Website:** https://openaq.org/ 
 
-:round_pushpin: **Code languague:** Python3
+:round_pushpin: **Code languague:** Python3 
 
 :round_pushpin: **Scraper:** scrapy
 
