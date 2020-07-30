@@ -14,7 +14,7 @@ Here you can find my first `web scraping project`.
 
 ## :star: Details:
 
-:round_pushpin: **Website:** https://openaq.org/
+:round_pushpin: **Website:** https://openaq.org/ 
 
 :round_pushpin: **Code languague:** Python3
 
